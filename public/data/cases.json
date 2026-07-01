@@ -1,0 +1,8142 @@
+[
+  {
+    "id": "alg-case-001",
+    "slug": "两数之和",
+    "title": "两数之和案例",
+    "summary": "两数之和的算法案例。",
+    "scenario": "使用大O表示法解决两数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：大O表示法",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用大O表示法解决两数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "两数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n两数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n大O表示法算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0001"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000001",
+      "alg-q-000821",
+      "alg-q-001641",
+      "alg-q-002461",
+      "alg-q-003281"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-002",
+    "slug": "三数之和",
+    "title": "三数之和案例",
+    "summary": "三数之和的算法案例。",
+    "scenario": "使用常数阶解决三数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：常数阶",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用常数阶解决三数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "三数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n三数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n常数阶算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0002"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000002",
+      "alg-q-000822",
+      "alg-q-001642",
+      "alg-q-002462",
+      "alg-q-003282"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-003",
+    "slug": "区间合并",
+    "title": "区间合并案例",
+    "summary": "区间合并的算法案例。",
+    "scenario": "使用线性阶解决区间合并问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：线性阶",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用线性阶解决区间合并。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "区间合并",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n区间合并是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n线性阶算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0003"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000003",
+      "alg-q-000823",
+      "alg-q-001643",
+      "alg-q-002463",
+      "alg-q-003283"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-004",
+    "slug": "最长无重复子串",
+    "title": "最长无重复子串案例",
+    "summary": "最长无重复子串的算法案例。",
+    "scenario": "使用对数阶解决最长无重复子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：对数阶",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用对数阶解决最长无重复子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长无重复子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长无重复子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n对数阶算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0004"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000004",
+      "alg-q-000824",
+      "alg-q-001644",
+      "alg-q-002464",
+      "alg-q-003284"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-005",
+    "slug": "前缀和",
+    "title": "前缀和案例",
+    "summary": "前缀和的算法案例。",
+    "scenario": "使用平方阶解决前缀和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：平方阶",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用平方阶解决前缀和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "前缀和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n前缀和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n平方阶算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0005"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000005",
+      "alg-q-000825",
+      "alg-q-001645",
+      "alg-q-002465",
+      "alg-q-003285"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-006",
+    "slug": "链表反转",
+    "title": "链表反转案例",
+    "summary": "链表反转的算法案例。",
+    "scenario": "使用指数阶解决链表反转问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：指数阶",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用指数阶解决链表反转。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "链表反转",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n链表反转是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n指数阶算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0006"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000006",
+      "alg-q-000826",
+      "alg-q-001646",
+      "alg-q-002466",
+      "alg-q-003286"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-007",
+    "slug": "合并链表",
+    "title": "合并链表案例",
+    "summary": "合并链表的算法案例。",
+    "scenario": "使用空间复杂度解决合并链表问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：空间复杂度",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用空间复杂度解决合并链表。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "合并链表",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n合并链表是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n空间复杂度算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0007"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000007",
+      "alg-q-000827",
+      "alg-q-001647",
+      "alg-q-002467",
+      "alg-q-003287"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-008",
+    "slug": "括号匹配",
+    "title": "括号匹配案例",
+    "summary": "括号匹配的算法案例。",
+    "scenario": "使用原地算法解决括号匹配问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：原地算法",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用原地算法解决括号匹配。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "括号匹配",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n括号匹配是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n原地算法算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0008"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000008",
+      "alg-q-000828",
+      "alg-q-001648",
+      "alg-q-002468",
+      "alg-q-003288"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-009",
+    "slug": "单调栈",
+    "title": "单调栈案例",
+    "summary": "单调栈的算法案例。",
+    "scenario": "使用递归树解决单调栈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：递归树",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用递归树解决单调栈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "单调栈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n单调栈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n递归树算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0009"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000009",
+      "alg-q-000829",
+      "alg-q-001649",
+      "alg-q-002469",
+      "alg-q-003289"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-010",
+    "slug": "接雨水",
+    "title": "接雨水案例",
+    "summary": "接雨水的算法案例。",
+    "scenario": "使用主定理解决接雨水问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：主定理",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用主定理解决接雨水。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "接雨水",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n接雨水是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n主定理算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0010"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000010",
+      "alg-q-000830",
+      "alg-q-001650",
+      "alg-q-002470",
+      "alg-q-003290"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-011",
+    "slug": "二分查找",
+    "title": "二分查找案例",
+    "summary": "二分查找的算法案例。",
+    "scenario": "使用摊还分析解决二分查找问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：摊还分析",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用摊还分析解决二分查找。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二分查找",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分查找是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n摊还分析算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0011"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000011",
+      "alg-q-000831",
+      "alg-q-001651",
+      "alg-q-002471",
+      "alg-q-003291"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-012",
+    "slug": "二分答案",
+    "title": "二分答案案例",
+    "summary": "二分答案的算法案例。",
+    "scenario": "使用刷题计划解决二分答案问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：刷题计划",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用刷题计划解决二分答案。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二分答案",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分答案是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n刷题计划算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0012"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000012",
+      "alg-q-000832",
+      "alg-q-001652",
+      "alg-q-002472",
+      "alg-q-003292"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-013",
+    "slug": "二叉树遍历",
+    "title": "二叉树遍历案例",
+    "summary": "二叉树遍历的算法案例。",
+    "scenario": "使用刷题方法解决二叉树遍历问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：刷题方法",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用刷题方法解决二叉树遍历。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二叉树遍历",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树遍历是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n刷题方法算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0013"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000013",
+      "alg-q-000833",
+      "alg-q-001653",
+      "alg-q-002473",
+      "alg-q-003293"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-014",
+    "slug": "二叉树路径",
+    "title": "二叉树路径案例",
+    "summary": "二叉树路径的算法案例。",
+    "scenario": "使用题解阅读解决二叉树路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：题解阅读",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用题解阅读解决二叉树路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二叉树路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n题解阅读算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0014"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000014",
+      "alg-q-000834",
+      "alg-q-001654",
+      "alg-q-002474",
+      "alg-q-003294"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-015",
+    "slug": "BFS最短路径",
+    "title": "BFS最短路径案例",
+    "summary": "BFS最短路径的算法案例。",
+    "scenario": "使用复杂度计算解决BFS最短路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：复杂度计算",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用复杂度计算解决BFS最短路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "BFS最短路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nBFS最短路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n复杂度计算算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0015"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000015",
+      "alg-q-000835",
+      "alg-q-001655",
+      "alg-q-002475",
+      "alg-q-003295"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-016",
+    "slug": "DFS岛屿",
+    "title": "DFS岛屿案例",
+    "summary": "DFS岛屿的算法案例。",
+    "scenario": "使用复杂度权衡解决DFS岛屿问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：复杂度权衡",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用复杂度权衡解决DFS岛屿。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "DFS岛屿",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nDFS岛屿是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n复杂度权衡算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0016"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000016",
+      "alg-q-000836",
+      "alg-q-001656",
+      "alg-q-002476",
+      "alg-q-003296"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-017",
+    "slug": "拓扑排序",
+    "title": "拓扑排序案例",
+    "summary": "拓扑排序的算法案例。",
+    "scenario": "使用数组定义解决拓扑排序问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：数组定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用数组定义解决拓扑排序。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "拓扑排序",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n拓扑排序是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n数组定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0017"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000017",
+      "alg-q-000837",
+      "alg-q-001657",
+      "alg-q-002477",
+      "alg-q-003297"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-018",
+    "slug": "并查集朋友圈",
+    "title": "并查集朋友圈案例",
+    "summary": "并查集朋友圈的算法案例。",
+    "scenario": "使用数组遍历解决并查集朋友圈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：数组遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用数组遍历解决并查集朋友圈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "并查集朋友圈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n并查集朋友圈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n数组遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0018"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000018",
+      "alg-q-000838",
+      "alg-q-001658",
+      "alg-q-002478",
+      "alg-q-003298"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-019",
+    "slug": "TopK",
+    "title": "TopK案例",
+    "summary": "TopK的算法案例。",
+    "scenario": "使用二维数组解决TopK问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二维数组",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二维数组解决TopK。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "TopK",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nTopK是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二维数组算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0019"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000019",
+      "alg-q-000839",
+      "alg-q-001659",
+      "alg-q-002479",
+      "alg-q-003299"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-020",
+    "slug": "贪心区间",
+    "title": "贪心区间案例",
+    "summary": "贪心区间的算法案例。",
+    "scenario": "使用矩阵遍历解决贪心区间问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：矩阵遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用矩阵遍历解决贪心区间。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "贪心区间",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n贪心区间是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n矩阵遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0020"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000020",
+      "alg-q-000840",
+      "alg-q-001660",
+      "alg-q-002480",
+      "alg-q-003300"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-021",
+    "slug": "回溯全排列",
+    "title": "回溯全排列案例",
+    "summary": "回溯全排列的算法案例。",
+    "scenario": "使用字符串定义解决回溯全排列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：字符串定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用字符串定义解决回溯全排列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "回溯全排列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回溯全排列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n字符串定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0021"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000021",
+      "alg-q-000841",
+      "alg-q-001661",
+      "alg-q-002481",
+      "alg-q-003301"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-022",
+    "slug": "爬楼梯DP",
+    "title": "爬楼梯DP案例",
+    "summary": "爬楼梯DP的算法案例。",
+    "scenario": "使用字符串查找解决爬楼梯DP问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：字符串查找",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用字符串查找解决爬楼梯DP。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "爬楼梯DP",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n爬楼梯DP是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n字符串查找算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0022"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000022",
+      "alg-q-000842",
+      "alg-q-001662",
+      "alg-q-002482",
+      "alg-q-003302"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-023",
+    "slug": "0/1背包",
+    "title": "0/1背包案例",
+    "summary": "0/1背包的算法案例。",
+    "scenario": "使用回文串解决0/1背包问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：回文串",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用回文串解决0/1背包。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "0/1背包",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n0/1背包是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n回文串算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0023"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000023",
+      "alg-q-000843",
+      "alg-q-001663",
+      "alg-q-002483",
+      "alg-q-003303"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-024",
+    "slug": "最长递增子序列",
+    "title": "最长递增子序列案例",
+    "summary": "最长递增子序列的算法案例。",
+    "scenario": "使用子串解决最长递增子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：子串",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用子串解决最长递增子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长递增子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长递增子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n子串算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0024"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000024",
+      "alg-q-000844",
+      "alg-q-001664",
+      "alg-q-002484",
+      "alg-q-003304"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-025",
+    "slug": "最长公共子序列",
+    "title": "最长公共子序列案例",
+    "summary": "最长公共子序列的算法案例。",
+    "scenario": "使用子序列解决最长公共子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：子序列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用子序列解决最长公共子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长公共子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长公共子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n子序列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0025"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000025",
+      "alg-q-000845",
+      "alg-q-001665",
+      "alg-q-002485",
+      "alg-q-003305"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-026",
+    "slug": "股票买卖",
+    "title": "股票买卖案例",
+    "summary": "股票买卖的算法案例。",
+    "scenario": "使用ASCII解决股票买卖问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：ASCII",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用ASCII解决股票买卖。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "股票买卖",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n股票买卖是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nASCII算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0026"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000026",
+      "alg-q-000846",
+      "alg-q-001666",
+      "alg-q-002486",
+      "alg-q-003306"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-027",
+    "slug": "编辑距离",
+    "title": "编辑距离案例",
+    "summary": "编辑距离的算法案例。",
+    "scenario": "使用字符串哈希解决编辑距离问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：字符串哈希",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用字符串哈希解决编辑距离。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "编辑距离",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n编辑距离是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n字符串哈希算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0027"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000027",
+      "alg-q-000847",
+      "alg-q-001667",
+      "alg-q-002487",
+      "alg-q-003307"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-028",
+    "slug": "回文子串",
+    "title": "回文子串案例",
+    "summary": "回文子串的算法案例。",
+    "scenario": "使用模拟题解决回文子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：模拟题",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用模拟题解决回文子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "回文子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回文子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n模拟题算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0028"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000028",
+      "alg-q-000848",
+      "alg-q-001668",
+      "alg-q-002488",
+      "alg-q-003308"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-029",
+    "slug": "矩阵搜索",
+    "title": "矩阵搜索案例",
+    "summary": "矩阵搜索的算法案例。",
+    "scenario": "使用边界条件解决矩阵搜索问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：边界条件",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用边界条件解决矩阵搜索。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "矩阵搜索",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n矩阵搜索是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n边界条件算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0029"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000029",
+      "alg-q-000849",
+      "alg-q-001669",
+      "alg-q-002489",
+      "alg-q-003309"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-030",
+    "slug": "打家劫舍",
+    "title": "打家劫舍案例",
+    "summary": "打家劫舍的算法案例。",
+    "scenario": "使用调试技巧解决打家劫舍问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：调试技巧",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用调试技巧解决打家劫舍。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "打家劫舍",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n打家劫舍是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n调试技巧算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0030"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000030",
+      "alg-q-000850",
+      "alg-q-001670",
+      "alg-q-002490",
+      "alg-q-003310"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-031",
+    "slug": "跳跃游戏",
+    "title": "跳跃游戏案例",
+    "summary": "跳跃游戏的算法案例。",
+    "scenario": "使用双指针定义解决跳跃游戏问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：双指针定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用双指针定义解决跳跃游戏。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "跳跃游戏",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n跳跃游戏是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n双指针定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0031"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000031",
+      "alg-q-000851",
+      "alg-q-001671",
+      "alg-q-002491",
+      "alg-q-003311"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-032",
+    "slug": "快排实现",
+    "title": "快排实现案例",
+    "summary": "快排实现的算法案例。",
+    "scenario": "使用对撞指针解决快排实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：对撞指针",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用对撞指针解决快排实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "快排实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n快排实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n对撞指针算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0032"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000032",
+      "alg-q-000852",
+      "alg-q-001672",
+      "alg-q-002492",
+      "alg-q-003312"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-033",
+    "slug": "归并实现",
+    "title": "归并实现案例",
+    "summary": "归并实现的算法案例。",
+    "scenario": "使用快慢指针解决归并实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：快慢指针",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用快慢指针解决归并实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "归并实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n归并实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n快慢指针算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0033"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000033",
+      "alg-q-000853",
+      "alg-q-001673",
+      "alg-q-002493",
+      "alg-q-003313"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-034",
+    "slug": "堆实现",
+    "title": "堆实现案例",
+    "summary": "堆实现的算法案例。",
+    "scenario": "使用滑动窗口解决堆实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：滑动窗口",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用滑动窗口解决堆实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "堆实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n堆实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n滑动窗口算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0034"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000034",
+      "alg-q-000854",
+      "alg-q-001674",
+      "alg-q-002494",
+      "alg-q-003314"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-035",
+    "slug": "LRU缓存",
+    "title": "LRU缓存案例",
+    "summary": "LRU缓存的算法案例。",
+    "scenario": "使用窗口扩张解决LRU缓存问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：窗口扩张",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用窗口扩张解决LRU缓存。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "LRU缓存",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nLRU缓存是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n窗口扩张算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0035"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000035",
+      "alg-q-000855",
+      "alg-q-001675",
+      "alg-q-002495",
+      "alg-q-003315"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-036",
+    "slug": "设计类",
+    "title": "设计类案例",
+    "summary": "设计类的算法案例。",
+    "scenario": "使用窗口收缩解决设计类问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：窗口收缩",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用窗口收缩解决设计类。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "设计类",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n设计类是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n窗口收缩算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0036"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000036",
+      "alg-q-000856",
+      "alg-q-001676",
+      "alg-q-002496",
+      "alg-q-003316"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-037",
+    "slug": "模拟面试",
+    "title": "模拟面试案例",
+    "summary": "模拟面试的算法案例。",
+    "scenario": "使用无重复子串解决模拟面试问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：无重复子串",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用无重复子串解决模拟面试。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "模拟面试",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n模拟面试是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n无重复子串算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0037"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000037",
+      "alg-q-000857",
+      "alg-q-001677",
+      "alg-q-002497",
+      "alg-q-003317"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-038",
+    "slug": "随机算法",
+    "title": "随机算法案例",
+    "summary": "随机算法的算法案例。",
+    "scenario": "使用前缀和定义解决随机算法问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：前缀和定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用前缀和定义解决随机算法。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "随机算法",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n随机算法是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n前缀和定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0038"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000038",
+      "alg-q-000858",
+      "alg-q-001678",
+      "alg-q-002498",
+      "alg-q-003318"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-039",
+    "slug": "位运算",
+    "title": "位运算案例",
+    "summary": "位运算的算法案例。",
+    "scenario": "使用一维前缀和解决位运算问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：一维前缀和",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用一维前缀和解决位运算。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "位运算",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n位运算是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n一维前缀和算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0039"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000039",
+      "alg-q-000859",
+      "alg-q-001679",
+      "alg-q-002499",
+      "alg-q-003319"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-040",
+    "slug": "数组去重",
+    "title": "数组去重案例",
+    "summary": "数组去重的算法案例。",
+    "scenario": "使用二维前缀和解决数组去重问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二维前缀和",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二维前缀和解决数组去重。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "数组去重",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n数组去重是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二维前缀和算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0040"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000040",
+      "alg-q-000860",
+      "alg-q-001680",
+      "alg-q-002500",
+      "alg-q-003320"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-041",
+    "slug": "两数之和",
+    "title": "两数之和案例",
+    "summary": "两数之和的算法案例。",
+    "scenario": "使用差分数组解决两数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：差分数组",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用差分数组解决两数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "两数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n两数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n差分数组算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0041"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000041",
+      "alg-q-000861",
+      "alg-q-001681",
+      "alg-q-002501",
+      "alg-q-003321"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-042",
+    "slug": "三数之和",
+    "title": "三数之和案例",
+    "summary": "三数之和的算法案例。",
+    "scenario": "使用前缀和优化解决三数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：前缀和优化",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用前缀和优化解决三数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "三数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n三数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n前缀和优化算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0042"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000042",
+      "alg-q-000862",
+      "alg-q-001682",
+      "alg-q-002502",
+      "alg-q-003322"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-043",
+    "slug": "区间合并",
+    "title": "区间合并案例",
+    "summary": "区间合并的算法案例。",
+    "scenario": "使用哈希表定义解决区间合并问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：哈希表定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用哈希表定义解决区间合并。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "区间合并",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n区间合并是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n哈希表定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0043"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000043",
+      "alg-q-000863",
+      "alg-q-001683",
+      "alg-q-002503",
+      "alg-q-003323"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-044",
+    "slug": "最长无重复子串",
+    "title": "最长无重复子串案例",
+    "summary": "最长无重复子串的算法案例。",
+    "scenario": "使用哈希函数解决最长无重复子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：哈希函数",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用哈希函数解决最长无重复子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "最长无重复子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长无重复子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n哈希函数算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0044"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000044",
+      "alg-q-000864",
+      "alg-q-001684",
+      "alg-q-002504",
+      "alg-q-003324"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-045",
+    "slug": "前缀和",
+    "title": "前缀和案例",
+    "summary": "前缀和的算法案例。",
+    "scenario": "使用哈希冲突解决前缀和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：哈希冲突",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用哈希冲突解决前缀和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "前缀和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n前缀和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n哈希冲突算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0045"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000045",
+      "alg-q-000865",
+      "alg-q-001685",
+      "alg-q-002505",
+      "alg-q-003325"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-046",
+    "slug": "链表反转",
+    "title": "链表反转案例",
+    "summary": "链表反转的算法案例。",
+    "scenario": "使用拉链法解决链表反转问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：拉链法",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用拉链法解决链表反转。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "链表反转",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n链表反转是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n拉链法算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0046"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000046",
+      "alg-q-000866",
+      "alg-q-001686",
+      "alg-q-002506",
+      "alg-q-003326"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-047",
+    "slug": "合并链表",
+    "title": "合并链表案例",
+    "summary": "合并链表的算法案例。",
+    "scenario": "使用HashSet解决合并链表问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：HashSet",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用HashSet解决合并链表。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "合并链表",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n合并链表是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nHashSet算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0047"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000047",
+      "alg-q-000867",
+      "alg-q-001687",
+      "alg-q-002507",
+      "alg-q-003327"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-048",
+    "slug": "括号匹配",
+    "title": "括号匹配案例",
+    "summary": "括号匹配的算法案例。",
+    "scenario": "使用HashMap解决括号匹配问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：HashMap",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用HashMap解决括号匹配。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "括号匹配",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n括号匹配是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nHashMap算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0048"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000048",
+      "alg-q-000868",
+      "alg-q-001688",
+      "alg-q-002508",
+      "alg-q-003328"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-049",
+    "slug": "单调栈",
+    "title": "单调栈案例",
+    "summary": "单调栈的算法案例。",
+    "scenario": "使用计数器解决单调栈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：计数器",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用计数器解决单调栈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "单调栈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n单调栈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n计数器算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0049"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000049",
+      "alg-q-000869",
+      "alg-q-001689",
+      "alg-q-002509",
+      "alg-q-003329"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-050",
+    "slug": "接雨水",
+    "title": "接雨水案例",
+    "summary": "接雨水的算法案例。",
+    "scenario": "使用频率统计解决接雨水问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：频率统计",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用频率统计解决接雨水。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "接雨水",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n接雨水是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n频率统计算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0050"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000050",
+      "alg-q-000870",
+      "alg-q-001690",
+      "alg-q-002510",
+      "alg-q-003330"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-051",
+    "slug": "二分查找",
+    "title": "二分查找案例",
+    "summary": "二分查找的算法案例。",
+    "scenario": "使用多数元素解决二分查找问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：多数元素",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用多数元素解决二分查找。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二分查找",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分查找是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n多数元素算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0051"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000051",
+      "alg-q-000871",
+      "alg-q-001691",
+      "alg-q-002511",
+      "alg-q-003331"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-052",
+    "slug": "二分答案",
+    "title": "二分答案案例",
+    "summary": "二分答案的算法案例。",
+    "scenario": "使用原地哈希解决二分答案问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：原地哈希",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用原地哈希解决二分答案。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二分答案",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分答案是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n原地哈希算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0052"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000052",
+      "alg-q-000872",
+      "alg-q-001692",
+      "alg-q-002512",
+      "alg-q-003332"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-053",
+    "slug": "二叉树遍历",
+    "title": "二叉树遍历案例",
+    "summary": "二叉树遍历的算法案例。",
+    "scenario": "使用字符计数解决二叉树遍历问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：字符计数",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用字符计数解决二叉树遍历。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "二叉树遍历",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树遍历是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n字符计数算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0053"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000053",
+      "alg-q-000873",
+      "alg-q-001693",
+      "alg-q-002513",
+      "alg-q-003333"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-054",
+    "slug": "二叉树路径",
+    "title": "二叉树路径案例",
+    "summary": "二叉树路径的算法案例。",
+    "scenario": "使用桶排序解决二叉树路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：桶排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用桶排序解决二叉树路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "二叉树路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n桶排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0054"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000054",
+      "alg-q-000874",
+      "alg-q-001694",
+      "alg-q-002514",
+      "alg-q-003334"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-055",
+    "slug": "BFS最短路径",
+    "title": "BFS最短路径案例",
+    "summary": "BFS最短路径的算法案例。",
+    "scenario": "使用链表定义解决BFS最短路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：链表定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用链表定义解决BFS最短路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "BFS最短路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nBFS最短路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n链表定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0055"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000055",
+      "alg-q-000875",
+      "alg-q-001695",
+      "alg-q-002515",
+      "alg-q-003335"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-056",
+    "slug": "DFS岛屿",
+    "title": "DFS岛屿案例",
+    "summary": "DFS岛屿的算法案例。",
+    "scenario": "使用链表遍历解决DFS岛屿问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：链表遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用链表遍历解决DFS岛屿。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "DFS岛屿",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nDFS岛屿是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n链表遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0056"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000056",
+      "alg-q-000876",
+      "alg-q-001696",
+      "alg-q-002516",
+      "alg-q-003336"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-057",
+    "slug": "拓扑排序",
+    "title": "拓扑排序案例",
+    "summary": "拓扑排序的算法案例。",
+    "scenario": "使用链表反转解决拓扑排序问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：链表反转",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用链表反转解决拓扑排序。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "拓扑排序",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n拓扑排序是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n链表反转算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0057"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000057",
+      "alg-q-000877",
+      "alg-q-001697",
+      "alg-q-002517",
+      "alg-q-003337"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-058",
+    "slug": "并查集朋友圈",
+    "title": "并查集朋友圈案例",
+    "summary": "并查集朋友圈的算法案例。",
+    "scenario": "使用递归反转解决并查集朋友圈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：递归反转",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用递归反转解决并查集朋友圈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "并查集朋友圈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n并查集朋友圈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n递归反转算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0058"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000058",
+      "alg-q-000878",
+      "alg-q-001698",
+      "alg-q-002518",
+      "alg-q-003338"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-059",
+    "slug": "TopK",
+    "title": "TopK案例",
+    "summary": "TopK的算法案例。",
+    "scenario": "使用合并链表解决TopK问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：合并链表",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用合并链表解决TopK。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "TopK",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nTopK是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n合并链表算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0059"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000059",
+      "alg-q-000879",
+      "alg-q-001699",
+      "alg-q-002519",
+      "alg-q-003339"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-060",
+    "slug": "贪心区间",
+    "title": "贪心区间案例",
+    "summary": "贪心区间的算法案例。",
+    "scenario": "使用环形链表解决贪心区间问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：环形链表",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用环形链表解决贪心区间。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "贪心区间",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n贪心区间是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n环形链表算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0060"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000060",
+      "alg-q-000880",
+      "alg-q-001700",
+      "alg-q-002520",
+      "alg-q-003340"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-061",
+    "slug": "回溯全排列",
+    "title": "回溯全排列案例",
+    "summary": "回溯全排列的算法案例。",
+    "scenario": "使用栈定义解决回溯全排列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：栈定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用栈定义解决回溯全排列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "回溯全排列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回溯全排列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n栈定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0061"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000061",
+      "alg-q-000881",
+      "alg-q-001701",
+      "alg-q-002521",
+      "alg-q-003341"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-062",
+    "slug": "爬楼梯DP",
+    "title": "爬楼梯DP案例",
+    "summary": "爬楼梯DP的算法案例。",
+    "scenario": "使用括号匹配解决爬楼梯DP问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：括号匹配",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用括号匹配解决爬楼梯DP。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "爬楼梯DP",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n爬楼梯DP是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n括号匹配算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0062"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000062",
+      "alg-q-000882",
+      "alg-q-001702",
+      "alg-q-002522",
+      "alg-q-003342"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-063",
+    "slug": "0/1背包",
+    "title": "0/1背包案例",
+    "summary": "0/1背包的算法案例。",
+    "scenario": "使用单调栈解决0/1背包问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：单调栈",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用单调栈解决0/1背包。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "0/1背包",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n0/1背包是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n单调栈算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0063"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000063",
+      "alg-q-000883",
+      "alg-q-001703",
+      "alg-q-002523",
+      "alg-q-003343"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-064",
+    "slug": "最长递增子序列",
+    "title": "最长递增子序列案例",
+    "summary": "最长递增子序列的算法案例。",
+    "scenario": "使用接雨水解决最长递增子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：接雨水",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用接雨水解决最长递增子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "最长递增子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长递增子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n接雨水算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0064"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000064",
+      "alg-q-000884",
+      "alg-q-001704",
+      "alg-q-002524",
+      "alg-q-003344"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-065",
+    "slug": "最长公共子序列",
+    "title": "最长公共子序列案例",
+    "summary": "最长公共子序列的算法案例。",
+    "scenario": "使用队列定义解决最长公共子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：队列定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用队列定义解决最长公共子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "最长公共子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长公共子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n队列定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0065"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000065",
+      "alg-q-000885",
+      "alg-q-001705",
+      "alg-q-002525",
+      "alg-q-003345"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-066",
+    "slug": "股票买卖",
+    "title": "股票买卖案例",
+    "summary": "股票买卖的算法案例。",
+    "scenario": "使用双端队列解决股票买卖问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：双端队列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用双端队列解决股票买卖。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "股票买卖",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n股票买卖是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n双端队列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0066"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000066",
+      "alg-q-000886",
+      "alg-q-001706",
+      "alg-q-002526",
+      "alg-q-003346"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-067",
+    "slug": "编辑距离",
+    "title": "编辑距离案例",
+    "summary": "编辑距离的算法案例。",
+    "scenario": "使用单调队列解决编辑距离问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：单调队列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用单调队列解决编辑距离。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "编辑距离",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n编辑距离是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n单调队列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0067"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000067",
+      "alg-q-000887",
+      "alg-q-001707",
+      "alg-q-002527",
+      "alg-q-003347"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-068",
+    "slug": "回文子串",
+    "title": "回文子串案例",
+    "summary": "回文子串的算法案例。",
+    "scenario": "使用递归定义解决回文子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：递归定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用递归定义解决回文子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "回文子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回文子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n递归定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0068"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000068",
+      "alg-q-000888",
+      "alg-q-001708",
+      "alg-q-002528",
+      "alg-q-003348"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-069",
+    "slug": "矩阵搜索",
+    "title": "矩阵搜索案例",
+    "summary": "矩阵搜索的算法案例。",
+    "scenario": "使用递归边界解决矩阵搜索问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：递归边界",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用递归边界解决矩阵搜索。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "矩阵搜索",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n矩阵搜索是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n递归边界算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0069"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000069",
+      "alg-q-000889",
+      "alg-q-001709",
+      "alg-q-002529",
+      "alg-q-003349"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-070",
+    "slug": "打家劫舍",
+    "title": "打家劫舍案例",
+    "summary": "打家劫舍的算法案例。",
+    "scenario": "使用递归树解决打家劫舍问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：递归树",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用递归树解决打家劫舍。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "打家劫舍",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n打家劫舍是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n递归树算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0070"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000070",
+      "alg-q-000890",
+      "alg-q-001710",
+      "alg-q-002530",
+      "alg-q-003350"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-071",
+    "slug": "跳跃游戏",
+    "title": "跳跃游戏案例",
+    "summary": "跳跃游戏的算法案例。",
+    "scenario": "使用尾递归解决跳跃游戏问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：尾递归",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用尾递归解决跳跃游戏。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "跳跃游戏",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n跳跃游戏是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n尾递归算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0071"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000071",
+      "alg-q-000891",
+      "alg-q-001711",
+      "alg-q-002531",
+      "alg-q-003351"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-072",
+    "slug": "快排实现",
+    "title": "快排实现案例",
+    "summary": "快排实现的算法案例。",
+    "scenario": "使用分治定义解决快排实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：分治定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用分治定义解决快排实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "快排实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n快排实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n分治定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0072"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000072",
+      "alg-q-000892",
+      "alg-q-001712",
+      "alg-q-002532",
+      "alg-q-003352"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-073",
+    "slug": "归并实现",
+    "title": "归并实现案例",
+    "summary": "归并实现的算法案例。",
+    "scenario": "使用归并排序解决归并实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：归并排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用归并排序解决归并实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "归并实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n归并实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n归并排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0073"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000073",
+      "alg-q-000893",
+      "alg-q-001713",
+      "alg-q-002533",
+      "alg-q-003353"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-074",
+    "slug": "堆实现",
+    "title": "堆实现案例",
+    "summary": "堆实现的算法案例。",
+    "scenario": "使用回溯定义解决堆实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：回溯定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用回溯定义解决堆实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "堆实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n堆实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n回溯定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0074"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000074",
+      "alg-q-000894",
+      "alg-q-001714",
+      "alg-q-002534",
+      "alg-q-003354"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-075",
+    "slug": "LRU缓存",
+    "title": "LRU缓存案例",
+    "summary": "LRU缓存的算法案例。",
+    "scenario": "使用回溯模板解决LRU缓存问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：回溯模板",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用回溯模板解决LRU缓存。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "LRU缓存",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nLRU缓存是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n回溯模板算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0075"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000075",
+      "alg-q-000895",
+      "alg-q-001715",
+      "alg-q-002535",
+      "alg-q-003355"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-076",
+    "slug": "设计类",
+    "title": "设计类案例",
+    "summary": "设计类的算法案例。",
+    "scenario": "使用剪枝解决设计类问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：剪枝",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用剪枝解决设计类。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "设计类",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n设计类是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n剪枝算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0076"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000076",
+      "alg-q-000896",
+      "alg-q-001716",
+      "alg-q-002536",
+      "alg-q-003356"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-077",
+    "slug": "模拟面试",
+    "title": "模拟面试案例",
+    "summary": "模拟面试的算法案例。",
+    "scenario": "使用组合解决模拟面试问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：组合",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用组合解决模拟面试。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "模拟面试",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n模拟面试是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n组合算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0077"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000077",
+      "alg-q-000897",
+      "alg-q-001717",
+      "alg-q-002537",
+      "alg-q-003357"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-078",
+    "slug": "随机算法",
+    "title": "随机算法案例",
+    "summary": "随机算法的算法案例。",
+    "scenario": "使用排列解决随机算法问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：排列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用排列解决随机算法。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "随机算法",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n随机算法是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n排列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0078"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000078",
+      "alg-q-000898",
+      "alg-q-001718",
+      "alg-q-002538",
+      "alg-q-003358"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-079",
+    "slug": "位运算",
+    "title": "位运算案例",
+    "summary": "位运算的算法案例。",
+    "scenario": "使用子集解决位运算问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：子集",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用子集解决位运算。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "位运算",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n位运算是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n子集算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0079"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000079",
+      "alg-q-000899",
+      "alg-q-001719",
+      "alg-q-002539",
+      "alg-q-003359"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-080",
+    "slug": "数组去重",
+    "title": "数组去重案例",
+    "summary": "数组去重的算法案例。",
+    "scenario": "使用N皇后解决数组去重问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：N皇后",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用N皇后解决数组去重。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "数组去重",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n数组去重是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nN皇后算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0080"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000080",
+      "alg-q-000900",
+      "alg-q-001720",
+      "alg-q-002540",
+      "alg-q-003360"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-081",
+    "slug": "两数之和",
+    "title": "两数之和案例",
+    "summary": "两数之和的算法案例。",
+    "scenario": "使用数独解决两数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：数独",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用数独解决两数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "两数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n两数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n数独算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0081"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000081",
+      "alg-q-000901",
+      "alg-q-001721",
+      "alg-q-002541",
+      "alg-q-003361"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-082",
+    "slug": "三数之和",
+    "title": "三数之和案例",
+    "summary": "三数之和的算法案例。",
+    "scenario": "使用排序定义解决三数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：排序定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用排序定义解决三数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "三数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n三数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n排序定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0082"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000082",
+      "alg-q-000902",
+      "alg-q-001722",
+      "alg-q-002542",
+      "alg-q-003362"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-083",
+    "slug": "区间合并",
+    "title": "区间合并案例",
+    "summary": "区间合并的算法案例。",
+    "scenario": "使用冒泡排序解决区间合并问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：冒泡排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用冒泡排序解决区间合并。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "区间合并",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n区间合并是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n冒泡排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0083"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000083",
+      "alg-q-000903",
+      "alg-q-001723",
+      "alg-q-002543",
+      "alg-q-003363"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-084",
+    "slug": "最长无重复子串",
+    "title": "最长无重复子串案例",
+    "summary": "最长无重复子串的算法案例。",
+    "scenario": "使用选择排序解决最长无重复子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：选择排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用选择排序解决最长无重复子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "最长无重复子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长无重复子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n选择排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0084"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000084",
+      "alg-q-000904",
+      "alg-q-001724",
+      "alg-q-002544",
+      "alg-q-003364"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-085",
+    "slug": "前缀和",
+    "title": "前缀和案例",
+    "summary": "前缀和的算法案例。",
+    "scenario": "使用插入排序解决前缀和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：插入排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用插入排序解决前缀和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "前缀和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n前缀和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n插入排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0085"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000085",
+      "alg-q-000905",
+      "alg-q-001725",
+      "alg-q-002545",
+      "alg-q-003365"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-086",
+    "slug": "链表反转",
+    "title": "链表反转案例",
+    "summary": "链表反转的算法案例。",
+    "scenario": "使用归并排序解决链表反转问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：归并排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用归并排序解决链表反转。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "链表反转",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n链表反转是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n归并排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0086"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000086",
+      "alg-q-000906",
+      "alg-q-001726",
+      "alg-q-002546",
+      "alg-q-003366"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-087",
+    "slug": "合并链表",
+    "title": "合并链表案例",
+    "summary": "合并链表的算法案例。",
+    "scenario": "使用快速排序解决合并链表问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：快速排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用快速排序解决合并链表。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "合并链表",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n合并链表是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n快速排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0087"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000087",
+      "alg-q-000907",
+      "alg-q-001727",
+      "alg-q-002547",
+      "alg-q-003367"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-088",
+    "slug": "括号匹配",
+    "title": "括号匹配案例",
+    "summary": "括号匹配的算法案例。",
+    "scenario": "使用快排partition解决括号匹配问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：快排partition",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用快排partition解决括号匹配。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "括号匹配",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n括号匹配是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n快排partition算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0088"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000088",
+      "alg-q-000908",
+      "alg-q-001728",
+      "alg-q-002548",
+      "alg-q-003368"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-089",
+    "slug": "单调栈",
+    "title": "单调栈案例",
+    "summary": "单调栈的算法案例。",
+    "scenario": "使用堆排序解决单调栈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：堆排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用堆排序解决单调栈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "单调栈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n单调栈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n堆排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0089"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000089",
+      "alg-q-000909",
+      "alg-q-001729",
+      "alg-q-002549",
+      "alg-q-003369"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-090",
+    "slug": "接雨水",
+    "title": "接雨水案例",
+    "summary": "接雨水的算法案例。",
+    "scenario": "使用二分查找解决接雨水问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二分查找",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二分查找解决接雨水。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "接雨水",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n接雨水是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二分查找算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0090"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000090",
+      "alg-q-000910",
+      "alg-q-001730",
+      "alg-q-002550",
+      "alg-q-003370"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-091",
+    "slug": "二分查找",
+    "title": "二分查找案例",
+    "summary": "二分查找的算法案例。",
+    "scenario": "使用二分左边界解决二分查找问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二分左边界",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二分左边界解决二分查找。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二分查找",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分查找是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二分左边界算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0091"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000091",
+      "alg-q-000911",
+      "alg-q-001731",
+      "alg-q-002551",
+      "alg-q-003371"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-092",
+    "slug": "二分答案",
+    "title": "二分答案案例",
+    "summary": "二分答案的算法案例。",
+    "scenario": "使用二分右边界解决二分答案问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二分右边界",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二分右边界解决二分答案。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二分答案",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分答案是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二分右边界算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0092"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000092",
+      "alg-q-000912",
+      "alg-q-001732",
+      "alg-q-002552",
+      "alg-q-003372"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-093",
+    "slug": "二叉树遍历",
+    "title": "二叉树遍历案例",
+    "summary": "二叉树遍历的算法案例。",
+    "scenario": "使用二分答案解决二叉树遍历问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二分答案",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二分答案解决二叉树遍历。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二叉树遍历",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树遍历是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二分答案算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0093"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000093",
+      "alg-q-000913",
+      "alg-q-001733",
+      "alg-q-002553",
+      "alg-q-003373"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-094",
+    "slug": "二叉树路径",
+    "title": "二叉树路径案例",
+    "summary": "二叉树路径的算法案例。",
+    "scenario": "使用浮点二分解决二叉树路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：浮点二分",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用浮点二分解决二叉树路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二叉树路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n浮点二分算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0094"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000094",
+      "alg-q-000914",
+      "alg-q-001734",
+      "alg-q-002554",
+      "alg-q-003374"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-095",
+    "slug": "BFS最短路径",
+    "title": "BFS最短路径案例",
+    "summary": "BFS最短路径的算法案例。",
+    "scenario": "使用树定义解决BFS最短路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：树定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用树定义解决BFS最短路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "BFS最短路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nBFS最短路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n树定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0095"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000095",
+      "alg-q-000915",
+      "alg-q-001735",
+      "alg-q-002555",
+      "alg-q-003375"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-096",
+    "slug": "DFS岛屿",
+    "title": "DFS岛屿案例",
+    "summary": "DFS岛屿的算法案例。",
+    "scenario": "使用二叉树解决DFS岛屿问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：二叉树",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用二叉树解决DFS岛屿。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "DFS岛屿",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nDFS岛屿是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n二叉树算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0096"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000096",
+      "alg-q-000916",
+      "alg-q-001736",
+      "alg-q-002556",
+      "alg-q-003376"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-097",
+    "slug": "拓扑排序",
+    "title": "拓扑排序案例",
+    "summary": "拓扑排序的算法案例。",
+    "scenario": "使用完全二叉树解决拓扑排序问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：完全二叉树",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用完全二叉树解决拓扑排序。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "拓扑排序",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n拓扑排序是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n完全二叉树算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0097"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000097",
+      "alg-q-000917",
+      "alg-q-001737",
+      "alg-q-002557",
+      "alg-q-003377"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-098",
+    "slug": "并查集朋友圈",
+    "title": "并查集朋友圈案例",
+    "summary": "并查集朋友圈的算法案例。",
+    "scenario": "使用BST解决并查集朋友圈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BST",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BST解决并查集朋友圈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "并查集朋友圈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n并查集朋友圈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBST算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0098"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000098",
+      "alg-q-000918",
+      "alg-q-001738",
+      "alg-q-002558",
+      "alg-q-003378"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-099",
+    "slug": "TopK",
+    "title": "TopK案例",
+    "summary": "TopK的算法案例。",
+    "scenario": "使用前序遍历解决TopK问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：前序遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用前序遍历解决TopK。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "TopK",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nTopK是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n前序遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0099"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000099",
+      "alg-q-000919",
+      "alg-q-001739",
+      "alg-q-002559",
+      "alg-q-003379"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-100",
+    "slug": "贪心区间",
+    "title": "贪心区间案例",
+    "summary": "贪心区间的算法案例。",
+    "scenario": "使用中序遍历解决贪心区间问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：中序遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用中序遍历解决贪心区间。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "贪心区间",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n贪心区间是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n中序遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0100"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000100",
+      "alg-q-000920",
+      "alg-q-001740",
+      "alg-q-002560",
+      "alg-q-003380"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-101",
+    "slug": "回溯全排列",
+    "title": "回溯全排列案例",
+    "summary": "回溯全排列的算法案例。",
+    "scenario": "使用后序遍历解决回溯全排列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：后序遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用后序遍历解决回溯全排列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "回溯全排列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回溯全排列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n后序遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0101"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000101",
+      "alg-q-000921",
+      "alg-q-001741",
+      "alg-q-002561",
+      "alg-q-003381"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-102",
+    "slug": "爬楼梯DP",
+    "title": "爬楼梯DP案例",
+    "summary": "爬楼梯DP的算法案例。",
+    "scenario": "使用层序遍历解决爬楼梯DP问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：层序遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用层序遍历解决爬楼梯DP。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "爬楼梯DP",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n爬楼梯DP是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n层序遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0102"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000102",
+      "alg-q-000922",
+      "alg-q-001742",
+      "alg-q-002562",
+      "alg-q-003382"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-103",
+    "slug": "0/1背包",
+    "title": "0/1背包案例",
+    "summary": "0/1背包的算法案例。",
+    "scenario": "使用递归遍历解决0/1背包问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：递归遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用递归遍历解决0/1背包。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "0/1背包",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n0/1背包是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n递归遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0103"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000103",
+      "alg-q-000923",
+      "alg-q-001743",
+      "alg-q-002563",
+      "alg-q-003383"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-104",
+    "slug": "最长递增子序列",
+    "title": "最长递增子序列案例",
+    "summary": "最长递增子序列的算法案例。",
+    "scenario": "使用迭代遍历解决最长递增子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：迭代遍历",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用迭代遍历解决最长递增子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长递增子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长递增子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n迭代遍历算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0104"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000104",
+      "alg-q-000924",
+      "alg-q-001744",
+      "alg-q-002564",
+      "alg-q-003384"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-105",
+    "slug": "最长公共子序列",
+    "title": "最长公共子序列案例",
+    "summary": "最长公共子序列的算法案例。",
+    "scenario": "使用BST查找解决最长公共子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BST查找",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BST查找解决最长公共子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长公共子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长公共子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBST查找算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0105"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000105",
+      "alg-q-000925",
+      "alg-q-001745",
+      "alg-q-002565",
+      "alg-q-003385"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-106",
+    "slug": "股票买卖",
+    "title": "股票买卖案例",
+    "summary": "股票买卖的算法案例。",
+    "scenario": "使用BST插入解决股票买卖问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BST插入",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BST插入解决股票买卖。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "股票买卖",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n股票买卖是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBST插入算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0106"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000106",
+      "alg-q-000926",
+      "alg-q-001746",
+      "alg-q-002566",
+      "alg-q-003386"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-107",
+    "slug": "编辑距离",
+    "title": "编辑距离案例",
+    "summary": "编辑距离的算法案例。",
+    "scenario": "使用BST删除解决编辑距离问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BST删除",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BST删除解决编辑距离。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "编辑距离",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n编辑距离是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBST删除算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0107"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000107",
+      "alg-q-000927",
+      "alg-q-001747",
+      "alg-q-002567",
+      "alg-q-003387"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-108",
+    "slug": "回文子串",
+    "title": "回文子串案例",
+    "summary": "回文子串的算法案例。",
+    "scenario": "使用树的深度解决回文子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：树的深度",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用树的深度解决回文子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "回文子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回文子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n树的深度算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0108"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000108",
+      "alg-q-000928",
+      "alg-q-001748",
+      "alg-q-002568",
+      "alg-q-003388"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-109",
+    "slug": "矩阵搜索",
+    "title": "矩阵搜索案例",
+    "summary": "矩阵搜索的算法案例。",
+    "scenario": "使用路径和解决矩阵搜索问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：路径和",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用路径和解决矩阵搜索。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "矩阵搜索",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n矩阵搜索是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n路径和算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0109"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000109",
+      "alg-q-000929",
+      "alg-q-001749",
+      "alg-q-002569",
+      "alg-q-003389"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-110",
+    "slug": "打家劫舍",
+    "title": "打家劫舍案例",
+    "summary": "打家劫舍的算法案例。",
+    "scenario": "使用LCA解决打家劫舍问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：LCA",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用LCA解决打家劫舍。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "打家劫舍",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n打家劫舍是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nLCA算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0110"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000110",
+      "alg-q-000930",
+      "alg-q-001750",
+      "alg-q-002570",
+      "alg-q-003390"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-111",
+    "slug": "跳跃游戏",
+    "title": "跳跃游戏案例",
+    "summary": "跳跃游戏的算法案例。",
+    "scenario": "使用堆定义解决跳跃游戏问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：堆定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用堆定义解决跳跃游戏。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "跳跃游戏",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n跳跃游戏是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n堆定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0111"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000111",
+      "alg-q-000931",
+      "alg-q-001751",
+      "alg-q-002571",
+      "alg-q-003391"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-112",
+    "slug": "快排实现",
+    "title": "快排实现案例",
+    "summary": "快排实现的算法案例。",
+    "scenario": "使用大根堆解决快排实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：大根堆",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用大根堆解决快排实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "快排实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n快排实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n大根堆算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0112"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000112",
+      "alg-q-000932",
+      "alg-q-001752",
+      "alg-q-002572",
+      "alg-q-003392"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-113",
+    "slug": "归并实现",
+    "title": "归并实现案例",
+    "summary": "归并实现的算法案例。",
+    "scenario": "使用小根堆解决归并实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：小根堆",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用小根堆解决归并实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "归并实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n归并实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n小根堆算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0113"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000113",
+      "alg-q-000933",
+      "alg-q-001753",
+      "alg-q-002573",
+      "alg-q-003393"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-114",
+    "slug": "堆实现",
+    "title": "堆实现案例",
+    "summary": "堆实现的算法案例。",
+    "scenario": "使用堆化解决堆实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：堆化",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用堆化解决堆实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "堆实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n堆实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n堆化算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0114"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000114",
+      "alg-q-000934",
+      "alg-q-001754",
+      "alg-q-002574",
+      "alg-q-003394"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-115",
+    "slug": "LRU缓存",
+    "title": "LRU缓存案例",
+    "summary": "LRU缓存的算法案例。",
+    "scenario": "使用优先队列解决LRU缓存问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：优先队列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用优先队列解决LRU缓存。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "LRU缓存",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nLRU缓存是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n优先队列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0115"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000115",
+      "alg-q-000935",
+      "alg-q-001755",
+      "alg-q-002575",
+      "alg-q-003395"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-116",
+    "slug": "设计类",
+    "title": "设计类案例",
+    "summary": "设计类的算法案例。",
+    "scenario": "使用TopK解决设计类问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：TopK",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用TopK解决设计类。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "设计类",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n设计类是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nTopK算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0116"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000116",
+      "alg-q-000936",
+      "alg-q-001756",
+      "alg-q-002576",
+      "alg-q-003396"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-117",
+    "slug": "模拟面试",
+    "title": "模拟面试案例",
+    "summary": "模拟面试的算法案例。",
+    "scenario": "使用Kth最大解决模拟面试问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：Kth最大",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用Kth最大解决模拟面试。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "模拟面试",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n模拟面试是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nKth最大算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0117"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000117",
+      "alg-q-000937",
+      "alg-q-001757",
+      "alg-q-002577",
+      "alg-q-003397"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-118",
+    "slug": "随机算法",
+    "title": "随机算法案例",
+    "summary": "随机算法的算法案例。",
+    "scenario": "使用Kth最小解决随机算法问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：Kth最小",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用Kth最小解决随机算法。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "随机算法",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n随机算法是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nKth最小算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0118"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000118",
+      "alg-q-000938",
+      "alg-q-001758",
+      "alg-q-002578",
+      "alg-q-003398"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-119",
+    "slug": "位运算",
+    "title": "位运算案例",
+    "summary": "位运算的算法案例。",
+    "scenario": "使用前K高频解决位运算问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：前K高频",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用前K高频解决位运算。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "位运算",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n位运算是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n前K高频算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0119"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000119",
+      "alg-q-000939",
+      "alg-q-001759",
+      "alg-q-002579",
+      "alg-q-003399"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-120",
+    "slug": "数组去重",
+    "title": "数组去重案例",
+    "summary": "数组去重的算法案例。",
+    "scenario": "使用数据流中位数解决数组去重问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：数据流中位数",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用数据流中位数解决数组去重。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "数组去重",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n数组去重是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n数据流中位数算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0120"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000120",
+      "alg-q-000940",
+      "alg-q-001760",
+      "alg-q-002580",
+      "alg-q-003400"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-121",
+    "slug": "两数之和",
+    "title": "两数之和案例",
+    "summary": "两数之和的算法案例。",
+    "scenario": "使用堆排序解决两数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：堆排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用堆排序解决两数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "两数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n两数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n堆排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0121"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000121",
+      "alg-q-000941",
+      "alg-q-001761",
+      "alg-q-002581",
+      "alg-q-003401"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-122",
+    "slug": "三数之和",
+    "title": "三数之和案例",
+    "summary": "三数之和的算法案例。",
+    "scenario": "使用图定义解决三数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：图定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用图定义解决三数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "三数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n三数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n图定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0122"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000122",
+      "alg-q-000942",
+      "alg-q-001762",
+      "alg-q-002582",
+      "alg-q-003402"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-123",
+    "slug": "区间合并",
+    "title": "区间合并案例",
+    "summary": "区间合并的算法案例。",
+    "scenario": "使用有向图解决区间合并问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：有向图",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用有向图解决区间合并。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "区间合并",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n区间合并是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n有向图算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0123"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000123",
+      "alg-q-000943",
+      "alg-q-001763",
+      "alg-q-002583",
+      "alg-q-003403"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-124",
+    "slug": "最长无重复子串",
+    "title": "最长无重复子串案例",
+    "summary": "最长无重复子串的算法案例。",
+    "scenario": "使用无向图解决最长无重复子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：无向图",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用无向图解决最长无重复子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长无重复子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长无重复子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n无向图算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0124"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000124",
+      "alg-q-000944",
+      "alg-q-001764",
+      "alg-q-002584",
+      "alg-q-003404"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-125",
+    "slug": "前缀和",
+    "title": "前缀和案例",
+    "summary": "前缀和的算法案例。",
+    "scenario": "使用邻接矩阵解决前缀和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：邻接矩阵",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用邻接矩阵解决前缀和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "前缀和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n前缀和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n邻接矩阵算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0125"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000125",
+      "alg-q-000945",
+      "alg-q-001765",
+      "alg-q-002585",
+      "alg-q-003405"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-126",
+    "slug": "链表反转",
+    "title": "链表反转案例",
+    "summary": "链表反转的算法案例。",
+    "scenario": "使用邻接表解决链表反转问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：邻接表",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用邻接表解决链表反转。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "链表反转",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n链表反转是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n邻接表算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0126"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000126",
+      "alg-q-000946",
+      "alg-q-001766",
+      "alg-q-002586",
+      "alg-q-003406"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-127",
+    "slug": "合并链表",
+    "title": "合并链表案例",
+    "summary": "合并链表的算法案例。",
+    "scenario": "使用BFS定义解决合并链表问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BFS定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BFS定义解决合并链表。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "合并链表",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n合并链表是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBFS定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0127"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000127",
+      "alg-q-000947",
+      "alg-q-001767",
+      "alg-q-002587",
+      "alg-q-003407"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-128",
+    "slug": "括号匹配",
+    "title": "括号匹配案例",
+    "summary": "括号匹配的算法案例。",
+    "scenario": "使用BFS模板解决括号匹配问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BFS模板",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BFS模板解决括号匹配。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "括号匹配",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n括号匹配是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBFS模板算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0128"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000128",
+      "alg-q-000948",
+      "alg-q-001768",
+      "alg-q-002588",
+      "alg-q-003408"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-129",
+    "slug": "单调栈",
+    "title": "单调栈案例",
+    "summary": "单调栈的算法案例。",
+    "scenario": "使用BFS最短路径解决单调栈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：BFS最短路径",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用BFS最短路径解决单调栈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "单调栈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n单调栈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nBFS最短路径算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0129"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000129",
+      "alg-q-000949",
+      "alg-q-001769",
+      "alg-q-002589",
+      "alg-q-003409"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-130",
+    "slug": "接雨水",
+    "title": "接雨水案例",
+    "summary": "接雨水的算法案例。",
+    "scenario": "使用多源BFS解决接雨水问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：多源BFS",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用多源BFS解决接雨水。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "接雨水",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n接雨水是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n多源BFS算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0130"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000130",
+      "alg-q-000950",
+      "alg-q-001770",
+      "alg-q-002590",
+      "alg-q-003410"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-131",
+    "slug": "二分查找",
+    "title": "二分查找案例",
+    "summary": "二分查找的算法案例。",
+    "scenario": "使用DFS定义解决二分查找问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：DFS定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用DFS定义解决二分查找。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二分查找",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分查找是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nDFS定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0131"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000131",
+      "alg-q-000951",
+      "alg-q-001771",
+      "alg-q-002591",
+      "alg-q-003411"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-132",
+    "slug": "二分答案",
+    "title": "二分答案案例",
+    "summary": "二分答案的算法案例。",
+    "scenario": "使用DFS模板解决二分答案问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：DFS模板",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用DFS模板解决二分答案。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二分答案",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分答案是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nDFS模板算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0132"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000132",
+      "alg-q-000952",
+      "alg-q-001772",
+      "alg-q-002592",
+      "alg-q-003412"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-133",
+    "slug": "二叉树遍历",
+    "title": "二叉树遍历案例",
+    "summary": "二叉树遍历的算法案例。",
+    "scenario": "使用DFS回溯解决二叉树遍历问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：DFS回溯",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用DFS回溯解决二叉树遍历。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二叉树遍历",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树遍历是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nDFS回溯算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0133"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000133",
+      "alg-q-000953",
+      "alg-q-001773",
+      "alg-q-002593",
+      "alg-q-003413"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-134",
+    "slug": "二叉树路径",
+    "title": "二叉树路径案例",
+    "summary": "二叉树路径的算法案例。",
+    "scenario": "使用连通分量解决二叉树路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：连通分量",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用连通分量解决二叉树路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "二叉树路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n连通分量算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0134"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000134",
+      "alg-q-000954",
+      "alg-q-001774",
+      "alg-q-002594",
+      "alg-q-003414"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-135",
+    "slug": "BFS最短路径",
+    "title": "BFS最短路径案例",
+    "summary": "BFS最短路径的算法案例。",
+    "scenario": "使用最大岛屿解决BFS最短路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：最大岛屿",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用最大岛屿解决BFS最短路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "BFS最短路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nBFS最短路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n最大岛屿算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0135"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000135",
+      "alg-q-000955",
+      "alg-q-001775",
+      "alg-q-002595",
+      "alg-q-003415"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-136",
+    "slug": "DFS岛屿",
+    "title": "DFS岛屿案例",
+    "summary": "DFS岛屿的算法案例。",
+    "scenario": "使用拓扑排序解决DFS岛屿问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：拓扑排序",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用拓扑排序解决DFS岛屿。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "DFS岛屿",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nDFS岛屿是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n拓扑排序算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0136"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000136",
+      "alg-q-000956",
+      "alg-q-001776",
+      "alg-q-002596",
+      "alg-q-003416"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-137",
+    "slug": "拓扑排序",
+    "title": "拓扑排序案例",
+    "summary": "拓扑排序的算法案例。",
+    "scenario": "使用Kahn算法解决拓扑排序问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：Kahn算法",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用Kahn算法解决拓扑排序。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "拓扑排序",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n拓扑排序是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nKahn算法算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0137"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000137",
+      "alg-q-000957",
+      "alg-q-001777",
+      "alg-q-002597",
+      "alg-q-003417"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-138",
+    "slug": "并查集朋友圈",
+    "title": "并查集朋友圈案例",
+    "summary": "并查集朋友圈的算法案例。",
+    "scenario": "使用并查集定义解决并查集朋友圈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：并查集定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用并查集定义解决并查集朋友圈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "并查集朋友圈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n并查集朋友圈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n并查集定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0138"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000138",
+      "alg-q-000958",
+      "alg-q-001778",
+      "alg-q-002598",
+      "alg-q-003418"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-139",
+    "slug": "TopK",
+    "title": "TopK案例",
+    "summary": "TopK的算法案例。",
+    "scenario": "使用父节点解决TopK问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：父节点",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用父节点解决TopK。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "TopK",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nTopK是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n父节点算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0139"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000139",
+      "alg-q-000959",
+      "alg-q-001779",
+      "alg-q-002599",
+      "alg-q-003419"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-140",
+    "slug": "贪心区间",
+    "title": "贪心区间案例",
+    "summary": "贪心区间的算法案例。",
+    "scenario": "使用路径压缩解决贪心区间问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：路径压缩",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用路径压缩解决贪心区间。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "贪心区间",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n贪心区间是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n路径压缩算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0140"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000140",
+      "alg-q-000960",
+      "alg-q-001780",
+      "alg-q-002600",
+      "alg-q-003420"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-141",
+    "slug": "回溯全排列",
+    "title": "回溯全排列案例",
+    "summary": "回溯全排列的算法案例。",
+    "scenario": "使用按秩合并解决回溯全排列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：按秩合并",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用按秩合并解决回溯全排列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "回溯全排列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回溯全排列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n按秩合并算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0141"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000141",
+      "alg-q-000961",
+      "alg-q-001781",
+      "alg-q-002601",
+      "alg-q-003421"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-142",
+    "slug": "爬楼梯DP",
+    "title": "爬楼梯DP案例",
+    "summary": "爬楼梯DP的算法案例。",
+    "scenario": "使用连通分量解决爬楼梯DP问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：连通分量",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用连通分量解决爬楼梯DP。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "爬楼梯DP",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n爬楼梯DP是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n连通分量算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0142"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000142",
+      "alg-q-000962",
+      "alg-q-001782",
+      "alg-q-002602",
+      "alg-q-003422"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-143",
+    "slug": "0/1背包",
+    "title": "0/1背包案例",
+    "summary": "0/1背包的算法案例。",
+    "scenario": "使用朋友圈解决0/1背包问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：朋友圈",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用朋友圈解决0/1背包。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "0/1背包",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n0/1背包是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n朋友圈算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0143"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000143",
+      "alg-q-000963",
+      "alg-q-001783",
+      "alg-q-002603",
+      "alg-q-003423"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-144",
+    "slug": "最长递增子序列",
+    "title": "最长递增子序列案例",
+    "summary": "最长递增子序列的算法案例。",
+    "scenario": "使用冗余连接解决最长递增子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：冗余连接",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用冗余连接解决最长递增子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "最长递增子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长递增子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n冗余连接算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0144"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000144",
+      "alg-q-000964",
+      "alg-q-001784",
+      "alg-q-002604",
+      "alg-q-003424"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-145",
+    "slug": "最长公共子序列",
+    "title": "最长公共子序列案例",
+    "summary": "最长公共子序列的算法案例。",
+    "scenario": "使用Kruskal解决最长公共子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：Kruskal",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用Kruskal解决最长公共子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "最长公共子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长公共子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nKruskal算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0145"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000145",
+      "alg-q-000965",
+      "alg-q-001785",
+      "alg-q-002605",
+      "alg-q-003425"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-146",
+    "slug": "股票买卖",
+    "title": "股票买卖案例",
+    "summary": "股票买卖的算法案例。",
+    "scenario": "使用最小生成树解决股票买卖问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：最小生成树",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用最小生成树解决股票买卖。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "股票买卖",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n股票买卖是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n最小生成树算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0146"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000146",
+      "alg-q-000966",
+      "alg-q-001786",
+      "alg-q-002606",
+      "alg-q-003426"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-147",
+    "slug": "编辑距离",
+    "title": "编辑距离案例",
+    "summary": "编辑距离的算法案例。",
+    "scenario": "使用贪心定义解决编辑距离问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：贪心定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用贪心定义解决编辑距离。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "编辑距离",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n编辑距离是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n贪心定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0147"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000147",
+      "alg-q-000967",
+      "alg-q-001787",
+      "alg-q-002607",
+      "alg-q-003427"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-148",
+    "slug": "回文子串",
+    "title": "回文子串案例",
+    "summary": "回文子串的算法案例。",
+    "scenario": "使用贪心策略解决回文子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：贪心策略",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用贪心策略解决回文子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "回文子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回文子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n贪心策略算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0148"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000148",
+      "alg-q-000968",
+      "alg-q-001788",
+      "alg-q-002608",
+      "alg-q-003428"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-149",
+    "slug": "矩阵搜索",
+    "title": "矩阵搜索案例",
+    "summary": "矩阵搜索的算法案例。",
+    "scenario": "使用区间调度解决矩阵搜索问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：区间调度",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用区间调度解决矩阵搜索。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "矩阵搜索",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n矩阵搜索是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n区间调度算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0149"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000149",
+      "alg-q-000969",
+      "alg-q-001789",
+      "alg-q-002609",
+      "alg-q-003429"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-150",
+    "slug": "打家劫舍",
+    "title": "打家劫舍案例",
+    "summary": "打家劫舍的算法案例。",
+    "scenario": "使用区间覆盖解决打家劫舍问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：区间覆盖",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用区间覆盖解决打家劫舍。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "打家劫舍",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n打家劫舍是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n区间覆盖算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0150"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000150",
+      "alg-q-000970",
+      "alg-q-001790",
+      "alg-q-002610",
+      "alg-q-003430"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-151",
+    "slug": "跳跃游戏",
+    "title": "跳跃游戏案例",
+    "summary": "跳跃游戏的算法案例。",
+    "scenario": "使用跳跃游戏解决跳跃游戏问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：跳跃游戏",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用跳跃游戏解决跳跃游戏。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "跳跃游戏",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n跳跃游戏是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n跳跃游戏算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0151"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000151",
+      "alg-q-000971",
+      "alg-q-001791",
+      "alg-q-002611",
+      "alg-q-003431"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-152",
+    "slug": "快排实现",
+    "title": "快排实现案例",
+    "summary": "快排实现的算法案例。",
+    "scenario": "使用硬币找零解决快排实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：硬币找零",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用硬币找零解决快排实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "快排实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n快排实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n硬币找零算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0152"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000152",
+      "alg-q-000972",
+      "alg-q-001792",
+      "alg-q-002612",
+      "alg-q-003432"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-153",
+    "slug": "归并实现",
+    "title": "归并实现案例",
+    "summary": "归并实现的算法案例。",
+    "scenario": "使用贪心证明解决归并实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：贪心证明",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用贪心证明解决归并实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "归并实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n归并实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n贪心证明算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0153"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000153",
+      "alg-q-000973",
+      "alg-q-001793",
+      "alg-q-002613",
+      "alg-q-003433"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-154",
+    "slug": "堆实现",
+    "title": "堆实现案例",
+    "summary": "堆实现的算法案例。",
+    "scenario": "使用DP定义解决堆实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：DP定义",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用DP定义解决堆实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "堆实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n堆实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nDP定义算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0154"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000154",
+      "alg-q-000974",
+      "alg-q-001794",
+      "alg-q-002614",
+      "alg-q-003434"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-155",
+    "slug": "LRU缓存",
+    "title": "LRU缓存案例",
+    "summary": "LRU缓存的算法案例。",
+    "scenario": "使用DP三要素解决LRU缓存问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：DP三要素",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用DP三要素解决LRU缓存。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "LRU缓存",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nLRU缓存是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nDP三要素算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0155"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000155",
+      "alg-q-000975",
+      "alg-q-001795",
+      "alg-q-002615",
+      "alg-q-003435"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-156",
+    "slug": "设计类",
+    "title": "设计类案例",
+    "summary": "设计类的算法案例。",
+    "scenario": "使用DP五部曲解决设计类问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：DP五部曲",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用DP五部曲解决设计类。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "设计类",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n设计类是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\nDP五部曲算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0156"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000156",
+      "alg-q-000976",
+      "alg-q-001796",
+      "alg-q-002616",
+      "alg-q-003436"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-157",
+    "slug": "模拟面试",
+    "title": "模拟面试案例",
+    "summary": "模拟面试的算法案例。",
+    "scenario": "使用斐波那契解决模拟面试问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：斐波那契",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用斐波那契解决模拟面试。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "模拟面试",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n模拟面试是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n斐波那契算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0157"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000157",
+      "alg-q-000977",
+      "alg-q-001797",
+      "alg-q-002617",
+      "alg-q-003437"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-158",
+    "slug": "随机算法",
+    "title": "随机算法案例",
+    "summary": "随机算法的算法案例。",
+    "scenario": "使用爬楼梯解决随机算法问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：爬楼梯",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用爬楼梯解决随机算法。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "随机算法",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n随机算法是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n爬楼梯算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0158"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000158",
+      "alg-q-000978",
+      "alg-q-001798",
+      "alg-q-002618",
+      "alg-q-003438"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-159",
+    "slug": "位运算",
+    "title": "位运算案例",
+    "summary": "位运算的算法案例。",
+    "scenario": "使用打家劫舍解决位运算问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：打家劫舍",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用打家劫舍解决位运算。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "位运算",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n位运算是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n打家劫舍算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0159"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000159",
+      "alg-q-000979",
+      "alg-q-001799",
+      "alg-q-002619",
+      "alg-q-003439"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-160",
+    "slug": "数组去重",
+    "title": "数组去重案例",
+    "summary": "数组去重的算法案例。",
+    "scenario": "使用0/1背包解决数组去重问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：0/1背包",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用0/1背包解决数组去重。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "数组去重",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n数组去重是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n0/1背包算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0160"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000160",
+      "alg-q-000980",
+      "alg-q-001800",
+      "alg-q-002620",
+      "alg-q-003440"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-161",
+    "slug": "两数之和",
+    "title": "两数之和案例",
+    "summary": "两数之和的算法案例。",
+    "scenario": "使用完全背包解决两数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：完全背包",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用完全背包解决两数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "两数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n两数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n完全背包算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0161"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000161",
+      "alg-q-000981",
+      "alg-q-001801",
+      "alg-q-002621",
+      "alg-q-003441"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-162",
+    "slug": "三数之和",
+    "title": "三数之和案例",
+    "summary": "三数之和的算法案例。",
+    "scenario": "使用多重背包解决三数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：多重背包",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用多重背包解决三数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "三数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n三数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n多重背包算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0162"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000162",
+      "alg-q-000982",
+      "alg-q-001802",
+      "alg-q-002622",
+      "alg-q-003442"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-163",
+    "slug": "区间合并",
+    "title": "区间合并案例",
+    "summary": "区间合并的算法案例。",
+    "scenario": "使用最长递增子序列解决区间合并问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：最长递增子序列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用最长递增子序列解决区间合并。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "区间合并",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n区间合并是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n最长递增子序列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0163"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000163",
+      "alg-q-000983",
+      "alg-q-001803",
+      "alg-q-002623",
+      "alg-q-003443"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-164",
+    "slug": "最长无重复子串",
+    "title": "最长无重复子串案例",
+    "summary": "最长无重复子串的算法案例。",
+    "scenario": "使用最长公共子序列解决最长无重复子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：最长公共子序列",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用最长公共子序列解决最长无重复子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "最长无重复子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长无重复子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n最长公共子序列算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0164"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000164",
+      "alg-q-000984",
+      "alg-q-001804",
+      "alg-q-002624",
+      "alg-q-003444"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-165",
+    "slug": "前缀和",
+    "title": "前缀和案例",
+    "summary": "前缀和的算法案例。",
+    "scenario": "使用编辑距离解决前缀和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：编辑距离",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用编辑距离解决前缀和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "前缀和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n前缀和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n编辑距离算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0165"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000165",
+      "alg-q-000985",
+      "alg-q-001805",
+      "alg-q-002625",
+      "alg-q-003445"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-166",
+    "slug": "链表反转",
+    "title": "链表反转案例",
+    "summary": "链表反转的算法案例。",
+    "scenario": "使用股票买卖解决链表反转问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：股票买卖",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用股票买卖解决链表反转。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "链表反转",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n链表反转是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n股票买卖算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0166"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000166",
+      "alg-q-000986",
+      "alg-q-001806",
+      "alg-q-002626",
+      "alg-q-003446"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-167",
+    "slug": "合并链表",
+    "title": "合并链表案例",
+    "summary": "合并链表的算法案例。",
+    "scenario": "使用区间DP解决合并链表问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：区间DP",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用区间DP解决合并链表。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "合并链表",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n合并链表是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n区间DP算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0167"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000167",
+      "alg-q-000987",
+      "alg-q-001807",
+      "alg-q-002627",
+      "alg-q-003447"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-168",
+    "slug": "括号匹配",
+    "title": "括号匹配案例",
+    "summary": "括号匹配的算法案例。",
+    "scenario": "使用回文子串解决括号匹配问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：回文子串",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用回文子串解决括号匹配。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "括号匹配",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n括号匹配是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n回文子串算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0168"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000168",
+      "alg-q-000988",
+      "alg-q-001808",
+      "alg-q-002628",
+      "alg-q-003448"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-169",
+    "slug": "单调栈",
+    "title": "单调栈案例",
+    "summary": "单调栈的算法案例。",
+    "scenario": "使用笔试题型解决单调栈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：笔试题型",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用笔试题型解决单调栈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "单调栈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n单调栈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n笔试题型算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0169"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000169",
+      "alg-q-000989",
+      "alg-q-001809",
+      "alg-q-002629",
+      "alg-q-003449"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-170",
+    "slug": "接雨水",
+    "title": "接雨水案例",
+    "summary": "接雨水的算法案例。",
+    "scenario": "使用笔试难度解决接雨水问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：笔试难度",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用笔试难度解决接雨水。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "接雨水",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n接雨水是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n笔试难度算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0170"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000170",
+      "alg-q-000990",
+      "alg-q-001810",
+      "alg-q-002630",
+      "alg-q-003450"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-171",
+    "slug": "二分查找",
+    "title": "二分查找案例",
+    "summary": "二分查找的算法案例。",
+    "scenario": "使用笔试策略解决二分查找问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：笔试策略",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用笔试策略解决二分查找。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "二分查找",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分查找是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n笔试策略算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0171"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000171",
+      "alg-q-000991",
+      "alg-q-001811",
+      "alg-q-002631",
+      "alg-q-003451"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-172",
+    "slug": "二分答案",
+    "title": "二分答案案例",
+    "summary": "二分答案的算法案例。",
+    "scenario": "使用面试流程解决二分答案问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：面试流程",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用面试流程解决二分答案。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二分答案",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分答案是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n面试流程算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0172"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000172",
+      "alg-q-000992",
+      "alg-q-001812",
+      "alg-q-002632",
+      "alg-q-003452"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-173",
+    "slug": "二叉树遍历",
+    "title": "二叉树遍历案例",
+    "summary": "二叉树遍历的算法案例。",
+    "scenario": "使用面试表达解决二叉树遍历问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：面试表达",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用面试表达解决二叉树遍历。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二叉树遍历",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树遍历是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n面试表达算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0173"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000173",
+      "alg-q-000993",
+      "alg-q-001813",
+      "alg-q-002633",
+      "alg-q-003453"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-174",
+    "slug": "二叉树路径",
+    "title": "二叉树路径案例",
+    "summary": "二叉树路径的算法案例。",
+    "scenario": "使用讲题训练解决二叉树路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：讲题训练",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用讲题训练解决二叉树路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "二叉树路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n讲题训练算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0174"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000174",
+      "alg-q-000994",
+      "alg-q-001814",
+      "alg-q-002634",
+      "alg-q-003454"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-175",
+    "slug": "BFS最短路径",
+    "title": "BFS最短路径案例",
+    "summary": "BFS最短路径的算法案例。",
+    "scenario": "使用模拟面试解决BFS最短路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：模拟面试",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用模拟面试解决BFS最短路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "BFS最短路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nBFS最短路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n模拟面试算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0175"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000175",
+      "alg-q-000995",
+      "alg-q-001815",
+      "alg-q-002635",
+      "alg-q-003455"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-176",
+    "slug": "DFS岛屿",
+    "title": "DFS岛屿案例",
+    "summary": "DFS岛屿的算法案例。",
+    "scenario": "使用面试复盘解决DFS岛屿问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：面试复盘",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用面试复盘解决DFS岛屿。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "DFS岛屿",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nDFS岛屿是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n面试复盘算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0176"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000176",
+      "alg-q-000996",
+      "alg-q-001816",
+      "alg-q-002636",
+      "alg-q-003456"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-177",
+    "slug": "拓扑排序",
+    "title": "拓扑排序案例",
+    "summary": "拓扑排序的算法案例。",
+    "scenario": "使用补充177解决拓扑排序问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充177",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充177解决拓扑排序。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "拓扑排序",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n拓扑排序是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充177算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0177"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000177",
+      "alg-q-000997",
+      "alg-q-001817",
+      "alg-q-002637",
+      "alg-q-003457"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-178",
+    "slug": "并查集朋友圈",
+    "title": "并查集朋友圈案例",
+    "summary": "并查集朋友圈的算法案例。",
+    "scenario": "使用补充178解决并查集朋友圈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充178",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充178解决并查集朋友圈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "并查集朋友圈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n并查集朋友圈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充178算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0178"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000178",
+      "alg-q-000998",
+      "alg-q-001818",
+      "alg-q-002638",
+      "alg-q-003458"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-179",
+    "slug": "TopK",
+    "title": "TopK案例",
+    "summary": "TopK的算法案例。",
+    "scenario": "使用补充179解决TopK问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充179",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充179解决TopK。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "TopK",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nTopK是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充179算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0179"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000179",
+      "alg-q-000999",
+      "alg-q-001819",
+      "alg-q-002639",
+      "alg-q-003459"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-180",
+    "slug": "贪心区间",
+    "title": "贪心区间案例",
+    "summary": "贪心区间的算法案例。",
+    "scenario": "使用补充180解决贪心区间问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充180",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充180解决贪心区间。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "贪心区间",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n贪心区间是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充180算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0180"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000180",
+      "alg-q-001000",
+      "alg-q-001820",
+      "alg-q-002640",
+      "alg-q-003460"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-181",
+    "slug": "回溯全排列",
+    "title": "回溯全排列案例",
+    "summary": "回溯全排列的算法案例。",
+    "scenario": "使用补充181解决回溯全排列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充181",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充181解决回溯全排列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "回溯全排列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回溯全排列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充181算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0181"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000181",
+      "alg-q-001001",
+      "alg-q-001821",
+      "alg-q-002641",
+      "alg-q-003461"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-182",
+    "slug": "爬楼梯DP",
+    "title": "爬楼梯DP案例",
+    "summary": "爬楼梯DP的算法案例。",
+    "scenario": "使用补充182解决爬楼梯DP问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充182",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充182解决爬楼梯DP。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "爬楼梯DP",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n爬楼梯DP是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充182算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0182"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000182",
+      "alg-q-001002",
+      "alg-q-001822",
+      "alg-q-002642",
+      "alg-q-003462"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-183",
+    "slug": "0/1背包",
+    "title": "0/1背包案例",
+    "summary": "0/1背包的算法案例。",
+    "scenario": "使用补充183解决0/1背包问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充183",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充183解决0/1背包。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "0/1背包",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n0/1背包是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充183算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0183"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000183",
+      "alg-q-001003",
+      "alg-q-001823",
+      "alg-q-002643",
+      "alg-q-003463"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-184",
+    "slug": "最长递增子序列",
+    "title": "最长递增子序列案例",
+    "summary": "最长递增子序列的算法案例。",
+    "scenario": "使用补充184解决最长递增子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充184",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充184解决最长递增子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长递增子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长递增子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充184算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0184"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000184",
+      "alg-q-001004",
+      "alg-q-001824",
+      "alg-q-002644",
+      "alg-q-003464"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-185",
+    "slug": "最长公共子序列",
+    "title": "最长公共子序列案例",
+    "summary": "最长公共子序列的算法案例。",
+    "scenario": "使用补充185解决最长公共子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充185",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充185解决最长公共子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长公共子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长公共子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充185算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0185"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000185",
+      "alg-q-001005",
+      "alg-q-001825",
+      "alg-q-002645",
+      "alg-q-003465"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-186",
+    "slug": "股票买卖",
+    "title": "股票买卖案例",
+    "summary": "股票买卖的算法案例。",
+    "scenario": "使用补充186解决股票买卖问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充186",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充186解决股票买卖。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "股票买卖",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n股票买卖是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充186算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0186"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000186",
+      "alg-q-001006",
+      "alg-q-001826",
+      "alg-q-002646",
+      "alg-q-003466"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-187",
+    "slug": "编辑距离",
+    "title": "编辑距离案例",
+    "summary": "编辑距离的算法案例。",
+    "scenario": "使用补充187解决编辑距离问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充187",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充187解决编辑距离。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "编辑距离",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n编辑距离是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充187算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0187"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000187",
+      "alg-q-001007",
+      "alg-q-001827",
+      "alg-q-002647",
+      "alg-q-003467"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-188",
+    "slug": "回文子串",
+    "title": "回文子串案例",
+    "summary": "回文子串的算法案例。",
+    "scenario": "使用补充188解决回文子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充188",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充188解决回文子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "回文子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回文子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充188算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0188"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000188",
+      "alg-q-001008",
+      "alg-q-001828",
+      "alg-q-002648",
+      "alg-q-003468"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-189",
+    "slug": "矩阵搜索",
+    "title": "矩阵搜索案例",
+    "summary": "矩阵搜索的算法案例。",
+    "scenario": "使用补充189解决矩阵搜索问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充189",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充189解决矩阵搜索。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "矩阵搜索",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n矩阵搜索是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充189算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0189"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000189",
+      "alg-q-001009",
+      "alg-q-001829",
+      "alg-q-002649",
+      "alg-q-003469"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-190",
+    "slug": "打家劫舍",
+    "title": "打家劫舍案例",
+    "summary": "打家劫舍的算法案例。",
+    "scenario": "使用补充190解决打家劫舍问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充190",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充190解决打家劫舍。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "打家劫舍",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n打家劫舍是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充190算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0190"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000190",
+      "alg-q-001010",
+      "alg-q-001830",
+      "alg-q-002650",
+      "alg-q-003470"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-191",
+    "slug": "跳跃游戏",
+    "title": "跳跃游戏案例",
+    "summary": "跳跃游戏的算法案例。",
+    "scenario": "使用补充191解决跳跃游戏问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充191",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充191解决跳跃游戏。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "跳跃游戏",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n跳跃游戏是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充191算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0191"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000191",
+      "alg-q-001011",
+      "alg-q-001831",
+      "alg-q-002651",
+      "alg-q-003471"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-192",
+    "slug": "快排实现",
+    "title": "快排实现案例",
+    "summary": "快排实现的算法案例。",
+    "scenario": "使用补充192解决快排实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充192",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充192解决快排实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "快排实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n快排实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充192算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0192"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000192",
+      "alg-q-001012",
+      "alg-q-001832",
+      "alg-q-002652",
+      "alg-q-003472"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-193",
+    "slug": "归并实现",
+    "title": "归并实现案例",
+    "summary": "归并实现的算法案例。",
+    "scenario": "使用补充193解决归并实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充193",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充193解决归并实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "归并实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n归并实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充193算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0193"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000193",
+      "alg-q-001013",
+      "alg-q-001833",
+      "alg-q-002653",
+      "alg-q-003473"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-194",
+    "slug": "堆实现",
+    "title": "堆实现案例",
+    "summary": "堆实现的算法案例。",
+    "scenario": "使用补充194解决堆实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充194",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充194解决堆实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "堆实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n堆实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充194算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0194"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000194",
+      "alg-q-001014",
+      "alg-q-001834",
+      "alg-q-002654",
+      "alg-q-003474"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-195",
+    "slug": "LRU缓存",
+    "title": "LRU缓存案例",
+    "summary": "LRU缓存的算法案例。",
+    "scenario": "使用补充195解决LRU缓存问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充195",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充195解决LRU缓存。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "LRU缓存",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nLRU缓存是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充195算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0195"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000195",
+      "alg-q-001015",
+      "alg-q-001835",
+      "alg-q-002655",
+      "alg-q-003475"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-196",
+    "slug": "设计类",
+    "title": "设计类案例",
+    "summary": "设计类的算法案例。",
+    "scenario": "使用补充196解决设计类问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充196",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充196解决设计类。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "设计类",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n设计类是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充196算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0196"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000196",
+      "alg-q-001016",
+      "alg-q-001836",
+      "alg-q-002656",
+      "alg-q-003476"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-197",
+    "slug": "模拟面试",
+    "title": "模拟面试案例",
+    "summary": "模拟面试的算法案例。",
+    "scenario": "使用补充197解决模拟面试问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充197",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充197解决模拟面试。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "模拟面试",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n模拟面试是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充197算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0197"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000197",
+      "alg-q-001017",
+      "alg-q-001837",
+      "alg-q-002657",
+      "alg-q-003477"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-198",
+    "slug": "随机算法",
+    "title": "随机算法案例",
+    "summary": "随机算法的算法案例。",
+    "scenario": "使用补充198解决随机算法问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充198",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充198解决随机算法。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "随机算法",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n随机算法是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充198算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0198"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000198",
+      "alg-q-001018",
+      "alg-q-001838",
+      "alg-q-002658",
+      "alg-q-003478"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-199",
+    "slug": "位运算",
+    "title": "位运算案例",
+    "summary": "位运算的算法案例。",
+    "scenario": "使用补充199解决位运算问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充199",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充199解决位运算。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "位运算",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n位运算是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充199算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0199"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000199",
+      "alg-q-001019",
+      "alg-q-001839",
+      "alg-q-002659",
+      "alg-q-003479"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-200",
+    "slug": "数组去重",
+    "title": "数组去重案例",
+    "summary": "数组去重的算法案例。",
+    "scenario": "使用补充200解决数组去重问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充200",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充200解决数组去重。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "数组去重",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n数组去重是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充200算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0200"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000200",
+      "alg-q-001020",
+      "alg-q-001840",
+      "alg-q-002660",
+      "alg-q-003480"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-201",
+    "slug": "两数之和",
+    "title": "两数之和案例",
+    "summary": "两数之和的算法案例。",
+    "scenario": "使用补充201解决两数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充201",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充201解决两数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "两数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n两数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充201算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0201"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000201",
+      "alg-q-001021",
+      "alg-q-001841",
+      "alg-q-002661",
+      "alg-q-003481"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-202",
+    "slug": "三数之和",
+    "title": "三数之和案例",
+    "summary": "三数之和的算法案例。",
+    "scenario": "使用补充202解决三数之和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充202",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充202解决三数之和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "三数之和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n三数之和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充202算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0202"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000202",
+      "alg-q-001022",
+      "alg-q-001842",
+      "alg-q-002662",
+      "alg-q-003482"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-203",
+    "slug": "区间合并",
+    "title": "区间合并案例",
+    "summary": "区间合并的算法案例。",
+    "scenario": "使用补充203解决区间合并问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充203",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充203解决区间合并。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "区间合并",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n区间合并是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充203算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0203"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000203",
+      "alg-q-001023",
+      "alg-q-001843",
+      "alg-q-002663",
+      "alg-q-003483"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-204",
+    "slug": "最长无重复子串",
+    "title": "最长无重复子串案例",
+    "summary": "最长无重复子串的算法案例。",
+    "scenario": "使用补充204解决最长无重复子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充204",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充204解决最长无重复子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "最长无重复子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长无重复子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充204算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0204"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000204",
+      "alg-q-001024",
+      "alg-q-001844",
+      "alg-q-002664",
+      "alg-q-003484"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-205",
+    "slug": "前缀和",
+    "title": "前缀和案例",
+    "summary": "前缀和的算法案例。",
+    "scenario": "使用补充205解决前缀和问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充205",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充205解决前缀和。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "前缀和",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n前缀和是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充205算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0205"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000205",
+      "alg-q-001025",
+      "alg-q-001845",
+      "alg-q-002665",
+      "alg-q-003485"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-206",
+    "slug": "链表反转",
+    "title": "链表反转案例",
+    "summary": "链表反转的算法案例。",
+    "scenario": "使用补充206解决链表反转问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充206",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充206解决链表反转。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "链表反转",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n链表反转是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充206算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0206"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000206",
+      "alg-q-001026",
+      "alg-q-001846",
+      "alg-q-002666",
+      "alg-q-003486"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-207",
+    "slug": "合并链表",
+    "title": "合并链表案例",
+    "summary": "合并链表的算法案例。",
+    "scenario": "使用补充207解决合并链表问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充207",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充207解决合并链表。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "合并链表",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n合并链表是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充207算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0207"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000207",
+      "alg-q-001027",
+      "alg-q-001847",
+      "alg-q-002667",
+      "alg-q-003487"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-208",
+    "slug": "括号匹配",
+    "title": "括号匹配案例",
+    "summary": "括号匹配的算法案例。",
+    "scenario": "使用补充208解决括号匹配问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充208",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充208解决括号匹配。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "括号匹配",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n括号匹配是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充208算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0208"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000208",
+      "alg-q-001028",
+      "alg-q-001848",
+      "alg-q-002668",
+      "alg-q-003488"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-209",
+    "slug": "单调栈",
+    "title": "单调栈案例",
+    "summary": "单调栈的算法案例。",
+    "scenario": "使用补充209解决单调栈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充209",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充209解决单调栈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "单调栈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n单调栈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充209算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0209"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000209",
+      "alg-q-001029",
+      "alg-q-001849",
+      "alg-q-002669",
+      "alg-q-003489"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-210",
+    "slug": "接雨水",
+    "title": "接雨水案例",
+    "summary": "接雨水的算法案例。",
+    "scenario": "使用补充210解决接雨水问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充210",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充210解决接雨水。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "接雨水",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n接雨水是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充210算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0210"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000210",
+      "alg-q-001030",
+      "alg-q-001850",
+      "alg-q-002670",
+      "alg-q-003490"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-211",
+    "slug": "二分查找",
+    "title": "二分查找案例",
+    "summary": "二分查找的算法案例。",
+    "scenario": "使用补充211解决二分查找问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充211",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充211解决二分查找。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二分查找",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分查找是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充211算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0211"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000211",
+      "alg-q-001031",
+      "alg-q-001851",
+      "alg-q-002671",
+      "alg-q-003491"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-212",
+    "slug": "二分答案",
+    "title": "二分答案案例",
+    "summary": "二分答案的算法案例。",
+    "scenario": "使用补充212解决二分答案问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充212",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充212解决二分答案。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二分答案",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二分答案是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充212算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0212"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000212",
+      "alg-q-001032",
+      "alg-q-001852",
+      "alg-q-002672",
+      "alg-q-003492"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-213",
+    "slug": "二叉树遍历",
+    "title": "二叉树遍历案例",
+    "summary": "二叉树遍历的算法案例。",
+    "scenario": "使用补充213解决二叉树遍历问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充213",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充213解决二叉树遍历。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二叉树遍历",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树遍历是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充213算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0213"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000213",
+      "alg-q-001033",
+      "alg-q-001853",
+      "alg-q-002673",
+      "alg-q-003493"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-214",
+    "slug": "二叉树路径",
+    "title": "二叉树路径案例",
+    "summary": "二叉树路径的算法案例。",
+    "scenario": "使用补充214解决二叉树路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充214",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充214解决二叉树路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "二叉树路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n二叉树路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充214算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0214"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000214",
+      "alg-q-001034",
+      "alg-q-001854",
+      "alg-q-002674",
+      "alg-q-003494"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-215",
+    "slug": "BFS最短路径",
+    "title": "BFS最短路径案例",
+    "summary": "BFS最短路径的算法案例。",
+    "scenario": "使用补充215解决BFS最短路径问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充215",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充215解决BFS最短路径。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "BFS最短路径",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nBFS最短路径是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充215算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0215"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000215",
+      "alg-q-001035",
+      "alg-q-001855",
+      "alg-q-002675",
+      "alg-q-003495"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-216",
+    "slug": "DFS岛屿",
+    "title": "DFS岛屿案例",
+    "summary": "DFS岛屿的算法案例。",
+    "scenario": "使用补充216解决DFS岛屿问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充216",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充216解决DFS岛屿。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "DFS岛屿",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nDFS岛屿是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充216算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0216"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000216",
+      "alg-q-001036",
+      "alg-q-001856",
+      "alg-q-002676",
+      "alg-q-003496"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-217",
+    "slug": "拓扑排序",
+    "title": "拓扑排序案例",
+    "summary": "拓扑排序的算法案例。",
+    "scenario": "使用补充217解决拓扑排序问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充217",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充217解决拓扑排序。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "拓扑排序",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n拓扑排序是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充217算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0217"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000217",
+      "alg-q-001037",
+      "alg-q-001857",
+      "alg-q-002677",
+      "alg-q-003497"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-218",
+    "slug": "并查集朋友圈",
+    "title": "并查集朋友圈案例",
+    "summary": "并查集朋友圈的算法案例。",
+    "scenario": "使用补充218解决并查集朋友圈问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充218",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充218解决并查集朋友圈。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "并查集朋友圈",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n并查集朋友圈是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充218算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0218"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000218",
+      "alg-q-001038",
+      "alg-q-001858",
+      "alg-q-002678",
+      "alg-q-003498"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-219",
+    "slug": "TopK",
+    "title": "TopK案例",
+    "summary": "TopK的算法案例。",
+    "scenario": "使用补充219解决TopK问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充219",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充219解决TopK。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "TopK",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nTopK是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充219算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0219"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000219",
+      "alg-q-001039",
+      "alg-q-001859",
+      "alg-q-002679",
+      "alg-q-003499"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-220",
+    "slug": "贪心区间",
+    "title": "贪心区间案例",
+    "summary": "贪心区间的算法案例。",
+    "scenario": "使用补充220解决贪心区间问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充220",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充220解决贪心区间。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "贪心区间",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n贪心区间是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充220算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0220"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000220",
+      "alg-q-001040",
+      "alg-q-001860",
+      "alg-q-002680",
+      "alg-q-003500"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-221",
+    "slug": "回溯全排列",
+    "title": "回溯全排列案例",
+    "summary": "回溯全排列的算法案例。",
+    "scenario": "使用补充221解决回溯全排列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充221",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充221解决回溯全排列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "回溯全排列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回溯全排列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充221算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0221"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000221",
+      "alg-q-001041",
+      "alg-q-001861",
+      "alg-q-002681"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-222",
+    "slug": "爬楼梯DP",
+    "title": "爬楼梯DP案例",
+    "summary": "爬楼梯DP的算法案例。",
+    "scenario": "使用补充222解决爬楼梯DP问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充222",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充222解决爬楼梯DP。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "爬楼梯DP",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n爬楼梯DP是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充222算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0222"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000222",
+      "alg-q-001042",
+      "alg-q-001862",
+      "alg-q-002682"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-223",
+    "slug": "0/1背包",
+    "title": "0/1背包案例",
+    "summary": "0/1背包的算法案例。",
+    "scenario": "使用补充223解决0/1背包问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充223",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充223解决0/1背包。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "0/1背包",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n0/1背包是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充223算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0223"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000223",
+      "alg-q-001043",
+      "alg-q-001863",
+      "alg-q-002683"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-224",
+    "slug": "最长递增子序列",
+    "title": "最长递增子序列案例",
+    "summary": "最长递增子序列的算法案例。",
+    "scenario": "使用补充224解决最长递增子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充224",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充224解决最长递增子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "最长递增子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长递增子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充224算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0224"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000224",
+      "alg-q-001044",
+      "alg-q-001864",
+      "alg-q-002684"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-225",
+    "slug": "最长公共子序列",
+    "title": "最长公共子序列案例",
+    "summary": "最长公共子序列的算法案例。",
+    "scenario": "使用补充225解决最长公共子序列问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充225",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充225解决最长公共子序列。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "最长公共子序列",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n最长公共子序列是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充225算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0225"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000225",
+      "alg-q-001045",
+      "alg-q-001865",
+      "alg-q-002685"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-226",
+    "slug": "股票买卖",
+    "title": "股票买卖案例",
+    "summary": "股票买卖的算法案例。",
+    "scenario": "使用补充226解决股票买卖问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充226",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充226解决股票买卖。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "股票买卖",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n股票买卖是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充226算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0226"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000226",
+      "alg-q-001046",
+      "alg-q-001866",
+      "alg-q-002686"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-227",
+    "slug": "编辑距离",
+    "title": "编辑距离案例",
+    "summary": "编辑距离的算法案例。",
+    "scenario": "使用补充227解决编辑距离问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充227",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充227解决编辑距离。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "编辑距离",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n编辑距离是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充227算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0227"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000227",
+      "alg-q-001047",
+      "alg-q-001867",
+      "alg-q-002687"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-228",
+    "slug": "回文子串",
+    "title": "回文子串案例",
+    "summary": "回文子串的算法案例。",
+    "scenario": "使用补充228解决回文子串问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充228",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充228解决回文子串。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "回文子串",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n回文子串是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充228算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0228"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000228",
+      "alg-q-001048",
+      "alg-q-001868",
+      "alg-q-002688"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-229",
+    "slug": "矩阵搜索",
+    "title": "矩阵搜索案例",
+    "summary": "矩阵搜索的算法案例。",
+    "scenario": "使用补充229解决矩阵搜索问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充229",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充229解决矩阵搜索。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "矩阵搜索",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n矩阵搜索是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充229算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0229"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000229",
+      "alg-q-001049",
+      "alg-q-001869",
+      "alg-q-002689"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-230",
+    "slug": "打家劫舍",
+    "title": "打家劫舍案例",
+    "summary": "打家劫舍的算法案例。",
+    "scenario": "使用补充230解决打家劫舍问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充230",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充230解决打家劫舍。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "打家劫舍",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n打家劫舍是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充230算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0230"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000230",
+      "alg-q-001050",
+      "alg-q-001870",
+      "alg-q-002690"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-231",
+    "slug": "跳跃游戏",
+    "title": "跳跃游戏案例",
+    "summary": "跳跃游戏的算法案例。",
+    "scenario": "使用补充231解决跳跃游戏问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充231",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充231解决跳跃游戏。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "跳跃游戏",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n跳跃游戏是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充231算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0231"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000231",
+      "alg-q-001051",
+      "alg-q-001871",
+      "alg-q-002691"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-232",
+    "slug": "快排实现",
+    "title": "快排实现案例",
+    "summary": "快排实现的算法案例。",
+    "scenario": "使用补充232解决快排实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充232",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充232解决快排实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "快排实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n快排实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充232算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0232"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000232",
+      "alg-q-001052",
+      "alg-q-001872",
+      "alg-q-002692"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-233",
+    "slug": "归并实现",
+    "title": "归并实现案例",
+    "summary": "归并实现的算法案例。",
+    "scenario": "使用补充233解决归并实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充233",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充233解决归并实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "归并实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n归并实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充233算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0233"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000233",
+      "alg-q-001053",
+      "alg-q-001873",
+      "alg-q-002693"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-234",
+    "slug": "堆实现",
+    "title": "堆实现案例",
+    "summary": "堆实现的算法案例。",
+    "scenario": "使用补充234解决堆实现问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充234",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充234解决堆实现。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "hard",
+    "tags": [
+      "堆实现",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n堆实现是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充234算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0234"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000234",
+      "alg-q-001054",
+      "alg-q-001874",
+      "alg-q-002694"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-235",
+    "slug": "LRU缓存",
+    "title": "LRU缓存案例",
+    "summary": "LRU缓存的算法案例。",
+    "scenario": "使用补充235解决LRU缓存问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充235",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充235解决LRU缓存。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "LRU缓存",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\nLRU缓存是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充235算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0235"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000235",
+      "alg-q-001055",
+      "alg-q-001875",
+      "alg-q-002695"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-236",
+    "slug": "设计类",
+    "title": "设计类案例",
+    "summary": "设计类的算法案例。",
+    "scenario": "使用补充236解决设计类问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充236",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充236解决设计类。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "设计类",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n设计类是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充236算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0236"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000236",
+      "alg-q-001056",
+      "alg-q-001876",
+      "alg-q-002696"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-237",
+    "slug": "模拟面试",
+    "title": "模拟面试案例",
+    "summary": "模拟面试的算法案例。",
+    "scenario": "使用补充237解决模拟面试问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充237",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充237解决模拟面试。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "easy",
+    "tags": [
+      "模拟面试",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n模拟面试是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充237算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0237"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000237",
+      "alg-q-001057",
+      "alg-q-001877",
+      "alg-q-002697"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-238",
+    "slug": "随机算法",
+    "title": "随机算法案例",
+    "summary": "随机算法的算法案例。",
+    "scenario": "使用补充238解决随机算法问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充238",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充238解决随机算法。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "随机算法",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n随机算法是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充238算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0238"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000238",
+      "alg-q-001058",
+      "alg-q-001878",
+      "alg-q-002698"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-239",
+    "slug": "位运算",
+    "title": "位运算案例",
+    "summary": "位运算的算法案例。",
+    "scenario": "使用补充239解决位运算问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充239",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充239解决位运算。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "位运算",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n位运算是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充239算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0239"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000239",
+      "alg-q-001059",
+      "alg-q-001879",
+      "alg-q-002699"
+    ],
+    "estimatedMinutes": 25
+  },
+  {
+    "id": "alg-case-240",
+    "slug": "数组去重",
+    "title": "数组去重案例",
+    "summary": "数组去重的算法案例。",
+    "scenario": "使用补充240解决数组去重问题。",
+    "task": "1.分析题目2.选择算法3.实现代码4.测试边界",
+    "hints": [
+      "提示1：补充240",
+      "提示2：注意边界",
+      "提示3：复杂度分析"
+    ],
+    "solution": "## 方案\n\n使用补充240解决数组去重。\n\n```python\ndef solve():\n    pass\n```",
+    "difficulty": "medium",
+    "tags": [
+      "数组去重",
+      "算法",
+      "案例"
+    ],
+    "backgroundMarkdown": "## 背景\n\n数组去重是经典算法题。",
+    "tasksMarkdown": "## 任务\n\n1.分析\n2.实现\n3.测试",
+    "referenceMarkdown": "## 参考\n\n补充240算法方案。",
+    "knowledgePoints": [
+      "alg-kp-0240"
+    ],
+    "relatedQuestionIds": [
+      "alg-q-000240",
+      "alg-q-001060",
+      "alg-q-001880",
+      "alg-q-002700"
+    ],
+    "estimatedMinutes": 25
+  }
+]

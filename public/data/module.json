@@ -1,0 +1,41 @@
+{
+  "id": "mod-algorithm-interview",
+  "slug": "module-algorithm-interview",
+  "title": "数据结构与算法刷题",
+  "subtitle": "校招、实习、技术面试与编程考试的算法学习与刷题路线",
+  "description": "面向校招、实习、转码、编程考试、算法入门和技术面试的学习者，提供从数据结构基础到经典算法套路的静态课程、刷题、解析、模拟面试和案例训练模块。所有题目均为原创模拟练习。",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "数据结构",
+    "算法",
+    "刷题",
+    "校招",
+    "面试",
+    "Python",
+    "动态规划",
+    "图搜索"
+  ],
+  "estimatedHours": 160,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-01T08:39:13.102Z",
+  "coverEmoji": "💻",
+  "repoUrl": "https://github.com/openskill-galaxy/module-algorithm-interview",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 185,
+    "knowledgePoints": 820,
+    "questions": 3500,
+    "cases": 240,
+    "exams": 105,
+    "routes": 30,
+    "glossary": 360,
+    "faqs": 200,
+    "tags": 1150
+  }
+}
