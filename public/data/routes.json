@@ -4,7 +4,7 @@
     "slug": "7天算法入门",
     "title": "7天算法入门",
     "summary": "7天算法入门：针对零基础的7天路线。",
-    "description": "7天算法入门：针对零基础的7天学习路线。",
+    "description": "7天算法入门：针对零基础的7天路线。",
     "targetUser": "零基础",
     "durationDays": 7,
     "steps": [
@@ -120,7 +120,7 @@
     "slug": "14天算法基础",
     "title": "14天算法基础",
     "summary": "14天算法基础：针对有基础的14天路线。",
-    "description": "14天算法基础：针对有基础的14天学习路线。",
+    "description": "14天算法基础：针对有基础的14天路线。",
     "targetUser": "有基础",
     "durationDays": 14,
     "steps": [
@@ -244,7 +244,7 @@
     "slug": "30天系统刷题",
     "title": "30天系统刷题",
     "summary": "30天系统刷题：针对系统学习的30天路线。",
-    "description": "30天系统刷题：针对系统学习的30天学习路线。",
+    "description": "30天系统刷题：针对系统学习的30天路线。",
     "targetUser": "系统学习",
     "durationDays": 30,
     "steps": [
@@ -392,7 +392,7 @@
     "slug": "60天校招冲刺",
     "title": "60天校招冲刺",
     "summary": "60天校招冲刺：针对校招的60天路线。",
-    "description": "60天校招冲刺：针对校招的60天学习路线。",
+    "description": "60天校招冲刺：针对校招的60天路线。",
     "targetUser": "校招",
     "durationDays": 60,
     "steps": [
@@ -576,7 +576,7 @@
     "slug": "数组双指针路线",
     "title": "数组双指针路线",
     "summary": "数组双指针路线：针对数组薄弱的14天路线。",
-    "description": "数组双指针路线：针对数组薄弱的14天学习路线。",
+    "description": "数组双指针路线：针对数组薄弱的14天路线。",
     "targetUser": "数组薄弱",
     "durationDays": 14,
     "steps": [
@@ -699,7 +699,7 @@
     "slug": "字符串路线",
     "title": "字符串路线",
     "summary": "字符串路线：针对字符串弱的10天路线。",
-    "description": "字符串路线：针对字符串弱的10天学习路线。",
+    "description": "字符串路线：针对字符串弱的10天路线。",
     "targetUser": "字符串弱",
     "durationDays": 10,
     "steps": [
@@ -810,7 +810,7 @@
     "slug": "链表栈队列路线",
     "title": "链表栈队列路线",
     "summary": "链表栈队列路线：针对链表栈弱的14天路线。",
-    "description": "链表栈队列路线：针对链表栈弱的14天学习路线。",
+    "description": "链表栈队列路线：针对链表栈弱的14天路线。",
     "targetUser": "链表栈弱",
     "durationDays": 14,
     "steps": [
@@ -921,7 +921,7 @@
     "slug": "树与二叉树路线",
     "title": "树与二叉树路线",
     "summary": "树与二叉树路线：针对树弱的21天路线。",
-    "description": "树与二叉树路线：针对树弱的21天学习路线。",
+    "description": "树与二叉树路线：针对树弱的21天路线。",
     "targetUser": "树弱",
     "durationDays": 21,
     "steps": [
@@ -1039,7 +1039,7 @@
     "slug": "图搜索路线",
     "title": "图搜索路线",
     "summary": "图搜索路线：针对图弱的21天路线。",
-    "description": "图搜索路线：针对图弱的21天学习路线。",
+    "description": "图搜索路线：针对图弱的21天路线。",
     "targetUser": "图弱",
     "durationDays": 21,
     "steps": [
@@ -1169,7 +1169,7 @@
     "slug": "DP专项路线",
     "title": "DP专项路线",
     "summary": "DP专项路线：针对DP弱的30天路线。",
-    "description": "DP专项路线：针对DP弱的30天学习路线。",
+    "description": "DP专项路线：针对DP弱的30天路线。",
     "targetUser": "DP弱",
     "durationDays": 30,
     "steps": [
@@ -1303,7 +1303,7 @@
     "slug": "回溯路线",
     "title": "回溯路线",
     "summary": "回溯路线：针对回溯弱的14天路线。",
-    "description": "回溯路线：针对回溯弱的14天学习路线。",
+    "description": "回溯路线：针对回溯弱的14天路线。",
     "targetUser": "回溯弱",
     "durationDays": 14,
     "steps": [
@@ -1414,7 +1414,7 @@
     "slug": "贪心路线",
     "title": "贪心路线",
     "summary": "贪心路线：针对贪心弱的10天路线。",
-    "description": "贪心路线：针对贪心弱的10天学习路线。",
+    "description": "贪心路线：针对贪心弱的10天路线。",
     "targetUser": "贪心弱",
     "durationDays": 10,
     "steps": [
@@ -1522,7 +1522,7 @@
     "slug": "二分路线",
     "title": "二分路线",
     "summary": "二分路线：针对二分弱的10天路线。",
-    "description": "二分路线：针对二分弱的10天学习路线。",
+    "description": "二分路线：针对二分弱的10天路线。",
     "targetUser": "二分弱",
     "durationDays": 10,
     "steps": [
@@ -1631,7 +1631,7 @@
     "slug": "排序路线",
     "title": "排序路线",
     "summary": "排序路线：针对排序弱的10天路线。",
-    "description": "排序路线：针对排序弱的10天学习路线。",
+    "description": "排序路线：针对排序弱的10天路线。",
     "targetUser": "排序弱",
     "durationDays": 10,
     "steps": [
@@ -1740,7 +1740,7 @@
     "slug": "哈希表路线",
     "title": "哈希表路线",
     "summary": "哈希表路线：针对哈希弱的7天路线。",
-    "description": "哈希表路线：针对哈希弱的7天学习路线。",
+    "description": "哈希表路线：针对哈希弱的7天路线。",
     "targetUser": "哈希弱",
     "durationDays": 7,
     "steps": [
@@ -1844,7 +1844,7 @@
     "slug": "堆与TopK路线",
     "title": "堆与TopK路线",
     "summary": "堆与TopK路线：针对堆弱的10天路线。",
-    "description": "堆与TopK路线：针对堆弱的10天学习路线。",
+    "description": "堆与TopK路线：针对堆弱的10天路线。",
     "targetUser": "堆弱",
     "durationDays": 10,
     "steps": [
@@ -1953,7 +1953,7 @@
     "slug": "并查集路线",
     "title": "并查集路线",
     "summary": "并查集路线：针对并查集弱的10天路线。",
-    "description": "并查集路线：针对并查集弱的10天学习路线。",
+    "description": "并查集路线：针对并查集弱的10天路线。",
     "targetUser": "并查集弱",
     "durationDays": 10,
     "steps": [
@@ -2062,7 +2062,7 @@
     "slug": "背包DP路线",
     "title": "背包DP路线",
     "summary": "背包DP路线：针对背包弱的21天路线。",
-    "description": "背包DP路线：针对背包弱的21天学习路线。",
+    "description": "背包DP路线：针对背包弱的21天路线。",
     "targetUser": "背包弱",
     "durationDays": 21,
     "steps": [
@@ -2182,7 +2182,7 @@
     "slug": "子序列DP路线",
     "title": "子序列DP路线",
     "summary": "子序列DP路线：针对序列DP弱的14天路线。",
-    "description": "子序列DP路线：针对序列DP弱的14天学习路线。",
+    "description": "子序列DP路线：针对序列DP弱的14天路线。",
     "targetUser": "序列DP弱",
     "durationDays": 14,
     "steps": [
@@ -2295,7 +2295,7 @@
     "slug": "面试冲刺路线",
     "title": "面试冲刺路线",
     "summary": "面试冲刺路线：针对面试的14天路线。",
-    "description": "面试冲刺路线：针对面试的14天学习路线。",
+    "description": "面试冲刺路线：针对面试的14天路线。",
     "targetUser": "面试",
     "durationDays": 14,
     "steps": [
@@ -2403,7 +2403,7 @@
     "slug": "笔试冲刺路线",
     "title": "笔试冲刺路线",
     "summary": "笔试冲刺路线：针对笔试的14天路线。",
-    "description": "笔试冲刺路线：针对笔试的14天学习路线。",
+    "description": "笔试冲刺路线：针对笔试的14天路线。",
     "targetUser": "笔试",
     "durationDays": 14,
     "steps": [
@@ -2511,7 +2511,7 @@
     "slug": "代码能力路线",
     "title": "代码能力路线",
     "summary": "代码能力路线：针对代码弱的21天路线。",
-    "description": "代码能力路线：针对代码弱的21天学习路线。",
+    "description": "代码能力路线：针对代码弱的21天路线。",
     "targetUser": "代码弱",
     "durationDays": 21,
     "steps": [
@@ -2642,7 +2642,7 @@
     "slug": "复杂度分析路线",
     "title": "复杂度分析路线",
     "summary": "复杂度分析路线：针对复杂度弱的7天路线。",
-    "description": "复杂度分析路线：针对复杂度弱的7天学习路线。",
+    "description": "复杂度分析路线：针对复杂度弱的7天路线。",
     "targetUser": "复杂度弱",
     "durationDays": 7,
     "steps": [
@@ -2746,7 +2746,7 @@
     "slug": "数学算法路线",
     "title": "数学算法路线",
     "summary": "数学算法路线：针对数学的14天路线。",
-    "description": "数学算法路线：针对数学的14天学习路线。",
+    "description": "数学算法路线：针对数学的14天路线。",
     "targetUser": "数学",
     "durationDays": 14,
     "steps": [
@@ -2867,7 +2867,7 @@
     "slug": "设计类路线",
     "title": "设计类路线",
     "summary": "设计类路线：针对设计的14天路线。",
-    "description": "设计类路线：针对设计的14天学习路线。",
+    "description": "设计类路线：针对设计的14天路线。",
     "targetUser": "设计",
     "durationDays": 14,
     "steps": [
@@ -2990,7 +2990,7 @@
     "slug": "位运算路线",
     "title": "位运算路线",
     "summary": "位运算路线：针对位运算的7天路线。",
-    "description": "位运算路线：针对位运算的7天学习路线。",
+    "description": "位运算路线：针对位运算的7天路线。",
     "targetUser": "位运算",
     "durationDays": 7,
     "steps": [
@@ -3094,7 +3094,7 @@
     "slug": "大数据量路线",
     "title": "大数据量路线",
     "summary": "大数据量路线：针对大数据的14天路线。",
-    "description": "大数据量路线：针对大数据的14天学习路线。",
+    "description": "大数据量路线：针对大数据的14天路线。",
     "targetUser": "大数据",
     "durationDays": 14,
     "steps": [
@@ -3217,7 +3217,7 @@
     "slug": "全题型路线",
     "title": "全题型路线",
     "summary": "全题型路线：针对全面的45天路线。",
-    "description": "全题型路线：针对全面的45天学习路线。",
+    "description": "全题型路线：针对全面的45天路线。",
     "targetUser": "全面",
     "durationDays": 45,
     "steps": [
@@ -3387,7 +3387,7 @@
     "slug": "零基础到Offer",
     "title": "零基础到Offer",
     "summary": "零基础到Offer：针对零基础的90天路线。",
-    "description": "零基础到Offer：针对零基础的90天学习路线。",
+    "description": "零基础到Offer：针对零基础的90天路线。",
     "targetUser": "零基础",
     "durationDays": 90,
     "steps": [
@@ -3599,7 +3599,7 @@
     "slug": "刷题回顾路线",
     "title": "刷题回顾路线",
     "summary": "刷题回顾路线：针对复习的7天路线。",
-    "description": "刷题回顾路线：针对复习的7天学习路线。",
+    "description": "刷题回顾路线：针对复习的7天路线。",
     "targetUser": "复习",
     "durationDays": 7,
     "steps": [

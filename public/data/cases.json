@@ -31,7 +31,12 @@
       "alg-q-002461",
       "alg-q-003281"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "两数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0001"
+    ]
   },
   {
     "id": "alg-case-002",
@@ -65,7 +70,12 @@
       "alg-q-002462",
       "alg-q-003282"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "三数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0002"
+    ]
   },
   {
     "id": "alg-case-003",
@@ -99,7 +109,12 @@
       "alg-q-002463",
       "alg-q-003283"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "区间合并的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0003"
+    ]
   },
   {
     "id": "alg-case-004",
@@ -133,7 +148,12 @@
       "alg-q-002464",
       "alg-q-003284"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长无重复子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0004"
+    ]
   },
   {
     "id": "alg-case-005",
@@ -167,7 +187,12 @@
       "alg-q-002465",
       "alg-q-003285"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "前缀和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0005"
+    ]
   },
   {
     "id": "alg-case-006",
@@ -201,7 +226,12 @@
       "alg-q-002466",
       "alg-q-003286"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "链表反转的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0006"
+    ]
   },
   {
     "id": "alg-case-007",
@@ -235,7 +265,12 @@
       "alg-q-002467",
       "alg-q-003287"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "合并链表的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0007"
+    ]
   },
   {
     "id": "alg-case-008",
@@ -269,7 +304,12 @@
       "alg-q-002468",
       "alg-q-003288"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "括号匹配的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0008"
+    ]
   },
   {
     "id": "alg-case-009",
@@ -303,7 +343,12 @@
       "alg-q-002469",
       "alg-q-003289"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "单调栈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0009"
+    ]
   },
   {
     "id": "alg-case-010",
@@ -337,7 +382,12 @@
       "alg-q-002470",
       "alg-q-003290"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "接雨水的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0010"
+    ]
   },
   {
     "id": "alg-case-011",
@@ -371,7 +421,12 @@
       "alg-q-002471",
       "alg-q-003291"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分查找的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0011"
+    ]
   },
   {
     "id": "alg-case-012",
@@ -405,7 +460,12 @@
       "alg-q-002472",
       "alg-q-003292"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分答案的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0012"
+    ]
   },
   {
     "id": "alg-case-013",
@@ -439,7 +499,12 @@
       "alg-q-002473",
       "alg-q-003293"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树遍历的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0013"
+    ]
   },
   {
     "id": "alg-case-014",
@@ -473,7 +538,12 @@
       "alg-q-002474",
       "alg-q-003294"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0014"
+    ]
   },
   {
     "id": "alg-case-015",
@@ -507,7 +577,12 @@
       "alg-q-002475",
       "alg-q-003295"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "BFS最短路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0015"
+    ]
   },
   {
     "id": "alg-case-016",
@@ -541,7 +616,12 @@
       "alg-q-002476",
       "alg-q-003296"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "DFS岛屿的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0016"
+    ]
   },
   {
     "id": "alg-case-017",
@@ -575,7 +655,12 @@
       "alg-q-002477",
       "alg-q-003297"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "拓扑排序的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0017"
+    ]
   },
   {
     "id": "alg-case-018",
@@ -609,7 +694,12 @@
       "alg-q-002478",
       "alg-q-003298"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "并查集朋友圈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0018"
+    ]
   },
   {
     "id": "alg-case-019",
@@ -643,7 +733,12 @@
       "alg-q-002479",
       "alg-q-003299"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "TopK的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0019"
+    ]
   },
   {
     "id": "alg-case-020",
@@ -677,7 +772,12 @@
       "alg-q-002480",
       "alg-q-003300"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "贪心区间的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0020"
+    ]
   },
   {
     "id": "alg-case-021",
@@ -711,7 +811,12 @@
       "alg-q-002481",
       "alg-q-003301"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回溯全排列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0021"
+    ]
   },
   {
     "id": "alg-case-022",
@@ -745,7 +850,12 @@
       "alg-q-002482",
       "alg-q-003302"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "爬楼梯DP的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0022"
+    ]
   },
   {
     "id": "alg-case-023",
@@ -779,7 +889,12 @@
       "alg-q-002483",
       "alg-q-003303"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "0/1背包的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0023"
+    ]
   },
   {
     "id": "alg-case-024",
@@ -813,7 +928,12 @@
       "alg-q-002484",
       "alg-q-003304"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长递增子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0024"
+    ]
   },
   {
     "id": "alg-case-025",
@@ -847,7 +967,12 @@
       "alg-q-002485",
       "alg-q-003305"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长公共子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0025"
+    ]
   },
   {
     "id": "alg-case-026",
@@ -881,7 +1006,12 @@
       "alg-q-002486",
       "alg-q-003306"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "股票买卖的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0026"
+    ]
   },
   {
     "id": "alg-case-027",
@@ -915,7 +1045,12 @@
       "alg-q-002487",
       "alg-q-003307"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "编辑距离的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0027"
+    ]
   },
   {
     "id": "alg-case-028",
@@ -949,7 +1084,12 @@
       "alg-q-002488",
       "alg-q-003308"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回文子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0028"
+    ]
   },
   {
     "id": "alg-case-029",
@@ -983,7 +1123,12 @@
       "alg-q-002489",
       "alg-q-003309"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "矩阵搜索的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0029"
+    ]
   },
   {
     "id": "alg-case-030",
@@ -1017,7 +1162,12 @@
       "alg-q-002490",
       "alg-q-003310"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "打家劫舍的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0030"
+    ]
   },
   {
     "id": "alg-case-031",
@@ -1051,7 +1201,12 @@
       "alg-q-002491",
       "alg-q-003311"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "跳跃游戏的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0031"
+    ]
   },
   {
     "id": "alg-case-032",
@@ -1085,7 +1240,12 @@
       "alg-q-002492",
       "alg-q-003312"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "快排实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0032"
+    ]
   },
   {
     "id": "alg-case-033",
@@ -1119,7 +1279,12 @@
       "alg-q-002493",
       "alg-q-003313"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "归并实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0033"
+    ]
   },
   {
     "id": "alg-case-034",
@@ -1153,7 +1318,12 @@
       "alg-q-002494",
       "alg-q-003314"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "堆实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0034"
+    ]
   },
   {
     "id": "alg-case-035",
@@ -1187,7 +1357,12 @@
       "alg-q-002495",
       "alg-q-003315"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "LRU缓存的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0035"
+    ]
   },
   {
     "id": "alg-case-036",
@@ -1221,7 +1396,12 @@
       "alg-q-002496",
       "alg-q-003316"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "设计类的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0036"
+    ]
   },
   {
     "id": "alg-case-037",
@@ -1255,7 +1435,12 @@
       "alg-q-002497",
       "alg-q-003317"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "模拟面试的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0037"
+    ]
   },
   {
     "id": "alg-case-038",
@@ -1289,7 +1474,12 @@
       "alg-q-002498",
       "alg-q-003318"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "随机算法的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0038"
+    ]
   },
   {
     "id": "alg-case-039",
@@ -1323,7 +1513,12 @@
       "alg-q-002499",
       "alg-q-003319"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "位运算的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0039"
+    ]
   },
   {
     "id": "alg-case-040",
@@ -1357,7 +1552,12 @@
       "alg-q-002500",
       "alg-q-003320"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "数组去重的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0040"
+    ]
   },
   {
     "id": "alg-case-041",
@@ -1391,7 +1591,12 @@
       "alg-q-002501",
       "alg-q-003321"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "两数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0041"
+    ]
   },
   {
     "id": "alg-case-042",
@@ -1425,7 +1630,12 @@
       "alg-q-002502",
       "alg-q-003322"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "三数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0042"
+    ]
   },
   {
     "id": "alg-case-043",
@@ -1459,7 +1669,12 @@
       "alg-q-002503",
       "alg-q-003323"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "区间合并的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0043"
+    ]
   },
   {
     "id": "alg-case-044",
@@ -1493,7 +1708,12 @@
       "alg-q-002504",
       "alg-q-003324"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长无重复子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0044"
+    ]
   },
   {
     "id": "alg-case-045",
@@ -1527,7 +1747,12 @@
       "alg-q-002505",
       "alg-q-003325"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "前缀和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0045"
+    ]
   },
   {
     "id": "alg-case-046",
@@ -1561,7 +1786,12 @@
       "alg-q-002506",
       "alg-q-003326"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "链表反转的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0046"
+    ]
   },
   {
     "id": "alg-case-047",
@@ -1595,7 +1825,12 @@
       "alg-q-002507",
       "alg-q-003327"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "合并链表的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0047"
+    ]
   },
   {
     "id": "alg-case-048",
@@ -1629,7 +1864,12 @@
       "alg-q-002508",
       "alg-q-003328"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "括号匹配的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0048"
+    ]
   },
   {
     "id": "alg-case-049",
@@ -1663,7 +1903,12 @@
       "alg-q-002509",
       "alg-q-003329"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "单调栈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0049"
+    ]
   },
   {
     "id": "alg-case-050",
@@ -1697,7 +1942,12 @@
       "alg-q-002510",
       "alg-q-003330"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "接雨水的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0050"
+    ]
   },
   {
     "id": "alg-case-051",
@@ -1731,7 +1981,12 @@
       "alg-q-002511",
       "alg-q-003331"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分查找的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0051"
+    ]
   },
   {
     "id": "alg-case-052",
@@ -1765,7 +2020,12 @@
       "alg-q-002512",
       "alg-q-003332"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分答案的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0052"
+    ]
   },
   {
     "id": "alg-case-053",
@@ -1799,7 +2059,12 @@
       "alg-q-002513",
       "alg-q-003333"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树遍历的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0053"
+    ]
   },
   {
     "id": "alg-case-054",
@@ -1833,7 +2098,12 @@
       "alg-q-002514",
       "alg-q-003334"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0054"
+    ]
   },
   {
     "id": "alg-case-055",
@@ -1867,7 +2137,12 @@
       "alg-q-002515",
       "alg-q-003335"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "BFS最短路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0055"
+    ]
   },
   {
     "id": "alg-case-056",
@@ -1901,7 +2176,12 @@
       "alg-q-002516",
       "alg-q-003336"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "DFS岛屿的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0056"
+    ]
   },
   {
     "id": "alg-case-057",
@@ -1935,7 +2215,12 @@
       "alg-q-002517",
       "alg-q-003337"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "拓扑排序的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0057"
+    ]
   },
   {
     "id": "alg-case-058",
@@ -1969,7 +2254,12 @@
       "alg-q-002518",
       "alg-q-003338"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "并查集朋友圈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0058"
+    ]
   },
   {
     "id": "alg-case-059",
@@ -2003,7 +2293,12 @@
       "alg-q-002519",
       "alg-q-003339"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "TopK的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0059"
+    ]
   },
   {
     "id": "alg-case-060",
@@ -2037,7 +2332,12 @@
       "alg-q-002520",
       "alg-q-003340"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "贪心区间的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0060"
+    ]
   },
   {
     "id": "alg-case-061",
@@ -2071,7 +2371,12 @@
       "alg-q-002521",
       "alg-q-003341"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回溯全排列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0061"
+    ]
   },
   {
     "id": "alg-case-062",
@@ -2105,7 +2410,12 @@
       "alg-q-002522",
       "alg-q-003342"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "爬楼梯DP的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0062"
+    ]
   },
   {
     "id": "alg-case-063",
@@ -2139,7 +2449,12 @@
       "alg-q-002523",
       "alg-q-003343"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "0/1背包的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0063"
+    ]
   },
   {
     "id": "alg-case-064",
@@ -2173,7 +2488,12 @@
       "alg-q-002524",
       "alg-q-003344"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长递增子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0064"
+    ]
   },
   {
     "id": "alg-case-065",
@@ -2207,7 +2527,12 @@
       "alg-q-002525",
       "alg-q-003345"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长公共子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0065"
+    ]
   },
   {
     "id": "alg-case-066",
@@ -2241,7 +2566,12 @@
       "alg-q-002526",
       "alg-q-003346"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "股票买卖的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0066"
+    ]
   },
   {
     "id": "alg-case-067",
@@ -2275,7 +2605,12 @@
       "alg-q-002527",
       "alg-q-003347"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "编辑距离的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0067"
+    ]
   },
   {
     "id": "alg-case-068",
@@ -2309,7 +2644,12 @@
       "alg-q-002528",
       "alg-q-003348"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回文子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0068"
+    ]
   },
   {
     "id": "alg-case-069",
@@ -2343,7 +2683,12 @@
       "alg-q-002529",
       "alg-q-003349"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "矩阵搜索的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0069"
+    ]
   },
   {
     "id": "alg-case-070",
@@ -2377,7 +2722,12 @@
       "alg-q-002530",
       "alg-q-003350"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "打家劫舍的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0070"
+    ]
   },
   {
     "id": "alg-case-071",
@@ -2411,7 +2761,12 @@
       "alg-q-002531",
       "alg-q-003351"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "跳跃游戏的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0071"
+    ]
   },
   {
     "id": "alg-case-072",
@@ -2445,7 +2800,12 @@
       "alg-q-002532",
       "alg-q-003352"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "快排实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0072"
+    ]
   },
   {
     "id": "alg-case-073",
@@ -2479,7 +2839,12 @@
       "alg-q-002533",
       "alg-q-003353"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "归并实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0073"
+    ]
   },
   {
     "id": "alg-case-074",
@@ -2513,7 +2878,12 @@
       "alg-q-002534",
       "alg-q-003354"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "堆实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0074"
+    ]
   },
   {
     "id": "alg-case-075",
@@ -2547,7 +2917,12 @@
       "alg-q-002535",
       "alg-q-003355"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "LRU缓存的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0075"
+    ]
   },
   {
     "id": "alg-case-076",
@@ -2581,7 +2956,12 @@
       "alg-q-002536",
       "alg-q-003356"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "设计类的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0076"
+    ]
   },
   {
     "id": "alg-case-077",
@@ -2615,7 +2995,12 @@
       "alg-q-002537",
       "alg-q-003357"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "模拟面试的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0077"
+    ]
   },
   {
     "id": "alg-case-078",
@@ -2649,7 +3034,12 @@
       "alg-q-002538",
       "alg-q-003358"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "随机算法的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0078"
+    ]
   },
   {
     "id": "alg-case-079",
@@ -2683,7 +3073,12 @@
       "alg-q-002539",
       "alg-q-003359"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "位运算的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0079"
+    ]
   },
   {
     "id": "alg-case-080",
@@ -2717,7 +3112,12 @@
       "alg-q-002540",
       "alg-q-003360"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "数组去重的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0080"
+    ]
   },
   {
     "id": "alg-case-081",
@@ -2751,7 +3151,12 @@
       "alg-q-002541",
       "alg-q-003361"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "两数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0081"
+    ]
   },
   {
     "id": "alg-case-082",
@@ -2785,7 +3190,12 @@
       "alg-q-002542",
       "alg-q-003362"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "三数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0082"
+    ]
   },
   {
     "id": "alg-case-083",
@@ -2819,7 +3229,12 @@
       "alg-q-002543",
       "alg-q-003363"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "区间合并的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0083"
+    ]
   },
   {
     "id": "alg-case-084",
@@ -2853,7 +3268,12 @@
       "alg-q-002544",
       "alg-q-003364"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长无重复子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0084"
+    ]
   },
   {
     "id": "alg-case-085",
@@ -2887,7 +3307,12 @@
       "alg-q-002545",
       "alg-q-003365"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "前缀和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0085"
+    ]
   },
   {
     "id": "alg-case-086",
@@ -2921,7 +3346,12 @@
       "alg-q-002546",
       "alg-q-003366"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "链表反转的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0086"
+    ]
   },
   {
     "id": "alg-case-087",
@@ -2955,7 +3385,12 @@
       "alg-q-002547",
       "alg-q-003367"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "合并链表的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0087"
+    ]
   },
   {
     "id": "alg-case-088",
@@ -2989,7 +3424,12 @@
       "alg-q-002548",
       "alg-q-003368"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "括号匹配的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0088"
+    ]
   },
   {
     "id": "alg-case-089",
@@ -3023,7 +3463,12 @@
       "alg-q-002549",
       "alg-q-003369"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "单调栈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0089"
+    ]
   },
   {
     "id": "alg-case-090",
@@ -3057,7 +3502,12 @@
       "alg-q-002550",
       "alg-q-003370"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "接雨水的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0090"
+    ]
   },
   {
     "id": "alg-case-091",
@@ -3091,7 +3541,12 @@
       "alg-q-002551",
       "alg-q-003371"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分查找的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0091"
+    ]
   },
   {
     "id": "alg-case-092",
@@ -3125,7 +3580,12 @@
       "alg-q-002552",
       "alg-q-003372"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分答案的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0092"
+    ]
   },
   {
     "id": "alg-case-093",
@@ -3159,7 +3619,12 @@
       "alg-q-002553",
       "alg-q-003373"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树遍历的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0093"
+    ]
   },
   {
     "id": "alg-case-094",
@@ -3193,7 +3658,12 @@
       "alg-q-002554",
       "alg-q-003374"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0094"
+    ]
   },
   {
     "id": "alg-case-095",
@@ -3227,7 +3697,12 @@
       "alg-q-002555",
       "alg-q-003375"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "BFS最短路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0095"
+    ]
   },
   {
     "id": "alg-case-096",
@@ -3261,7 +3736,12 @@
       "alg-q-002556",
       "alg-q-003376"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "DFS岛屿的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0096"
+    ]
   },
   {
     "id": "alg-case-097",
@@ -3295,7 +3775,12 @@
       "alg-q-002557",
       "alg-q-003377"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "拓扑排序的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0097"
+    ]
   },
   {
     "id": "alg-case-098",
@@ -3329,7 +3814,12 @@
       "alg-q-002558",
       "alg-q-003378"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "并查集朋友圈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0098"
+    ]
   },
   {
     "id": "alg-case-099",
@@ -3363,7 +3853,12 @@
       "alg-q-002559",
       "alg-q-003379"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "TopK的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0099"
+    ]
   },
   {
     "id": "alg-case-100",
@@ -3397,7 +3892,12 @@
       "alg-q-002560",
       "alg-q-003380"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "贪心区间的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0100"
+    ]
   },
   {
     "id": "alg-case-101",
@@ -3431,7 +3931,12 @@
       "alg-q-002561",
       "alg-q-003381"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回溯全排列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0101"
+    ]
   },
   {
     "id": "alg-case-102",
@@ -3465,7 +3970,12 @@
       "alg-q-002562",
       "alg-q-003382"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "爬楼梯DP的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0102"
+    ]
   },
   {
     "id": "alg-case-103",
@@ -3499,7 +4009,12 @@
       "alg-q-002563",
       "alg-q-003383"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "0/1背包的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0103"
+    ]
   },
   {
     "id": "alg-case-104",
@@ -3533,7 +4048,12 @@
       "alg-q-002564",
       "alg-q-003384"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长递增子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0104"
+    ]
   },
   {
     "id": "alg-case-105",
@@ -3567,7 +4087,12 @@
       "alg-q-002565",
       "alg-q-003385"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长公共子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0105"
+    ]
   },
   {
     "id": "alg-case-106",
@@ -3601,7 +4126,12 @@
       "alg-q-002566",
       "alg-q-003386"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "股票买卖的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0106"
+    ]
   },
   {
     "id": "alg-case-107",
@@ -3635,7 +4165,12 @@
       "alg-q-002567",
       "alg-q-003387"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "编辑距离的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0107"
+    ]
   },
   {
     "id": "alg-case-108",
@@ -3669,7 +4204,12 @@
       "alg-q-002568",
       "alg-q-003388"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回文子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0108"
+    ]
   },
   {
     "id": "alg-case-109",
@@ -3703,7 +4243,12 @@
       "alg-q-002569",
       "alg-q-003389"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "矩阵搜索的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0109"
+    ]
   },
   {
     "id": "alg-case-110",
@@ -3737,7 +4282,12 @@
       "alg-q-002570",
       "alg-q-003390"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "打家劫舍的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0110"
+    ]
   },
   {
     "id": "alg-case-111",
@@ -3771,7 +4321,12 @@
       "alg-q-002571",
       "alg-q-003391"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "跳跃游戏的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0111"
+    ]
   },
   {
     "id": "alg-case-112",
@@ -3805,7 +4360,12 @@
       "alg-q-002572",
       "alg-q-003392"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "快排实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0112"
+    ]
   },
   {
     "id": "alg-case-113",
@@ -3839,7 +4399,12 @@
       "alg-q-002573",
       "alg-q-003393"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "归并实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0113"
+    ]
   },
   {
     "id": "alg-case-114",
@@ -3873,7 +4438,12 @@
       "alg-q-002574",
       "alg-q-003394"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "堆实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0114"
+    ]
   },
   {
     "id": "alg-case-115",
@@ -3907,7 +4477,12 @@
       "alg-q-002575",
       "alg-q-003395"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "LRU缓存的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0115"
+    ]
   },
   {
     "id": "alg-case-116",
@@ -3941,7 +4516,12 @@
       "alg-q-002576",
       "alg-q-003396"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "设计类的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0116"
+    ]
   },
   {
     "id": "alg-case-117",
@@ -3975,7 +4555,12 @@
       "alg-q-002577",
       "alg-q-003397"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "模拟面试的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0117"
+    ]
   },
   {
     "id": "alg-case-118",
@@ -4009,7 +4594,12 @@
       "alg-q-002578",
       "alg-q-003398"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "随机算法的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0118"
+    ]
   },
   {
     "id": "alg-case-119",
@@ -4043,7 +4633,12 @@
       "alg-q-002579",
       "alg-q-003399"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "位运算的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0119"
+    ]
   },
   {
     "id": "alg-case-120",
@@ -4077,7 +4672,12 @@
       "alg-q-002580",
       "alg-q-003400"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "数组去重的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0120"
+    ]
   },
   {
     "id": "alg-case-121",
@@ -4111,7 +4711,12 @@
       "alg-q-002581",
       "alg-q-003401"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "两数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0121"
+    ]
   },
   {
     "id": "alg-case-122",
@@ -4145,7 +4750,12 @@
       "alg-q-002582",
       "alg-q-003402"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "三数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0122"
+    ]
   },
   {
     "id": "alg-case-123",
@@ -4179,7 +4789,12 @@
       "alg-q-002583",
       "alg-q-003403"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "区间合并的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0123"
+    ]
   },
   {
     "id": "alg-case-124",
@@ -4213,7 +4828,12 @@
       "alg-q-002584",
       "alg-q-003404"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长无重复子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0124"
+    ]
   },
   {
     "id": "alg-case-125",
@@ -4247,7 +4867,12 @@
       "alg-q-002585",
       "alg-q-003405"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "前缀和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0125"
+    ]
   },
   {
     "id": "alg-case-126",
@@ -4281,7 +4906,12 @@
       "alg-q-002586",
       "alg-q-003406"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "链表反转的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0126"
+    ]
   },
   {
     "id": "alg-case-127",
@@ -4315,7 +4945,12 @@
       "alg-q-002587",
       "alg-q-003407"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "合并链表的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0127"
+    ]
   },
   {
     "id": "alg-case-128",
@@ -4349,7 +4984,12 @@
       "alg-q-002588",
       "alg-q-003408"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "括号匹配的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0128"
+    ]
   },
   {
     "id": "alg-case-129",
@@ -4383,7 +5023,12 @@
       "alg-q-002589",
       "alg-q-003409"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "单调栈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0129"
+    ]
   },
   {
     "id": "alg-case-130",
@@ -4417,7 +5062,12 @@
       "alg-q-002590",
       "alg-q-003410"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "接雨水的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0130"
+    ]
   },
   {
     "id": "alg-case-131",
@@ -4451,7 +5101,12 @@
       "alg-q-002591",
       "alg-q-003411"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分查找的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0131"
+    ]
   },
   {
     "id": "alg-case-132",
@@ -4485,7 +5140,12 @@
       "alg-q-002592",
       "alg-q-003412"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分答案的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0132"
+    ]
   },
   {
     "id": "alg-case-133",
@@ -4519,7 +5179,12 @@
       "alg-q-002593",
       "alg-q-003413"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树遍历的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0133"
+    ]
   },
   {
     "id": "alg-case-134",
@@ -4553,7 +5218,12 @@
       "alg-q-002594",
       "alg-q-003414"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0134"
+    ]
   },
   {
     "id": "alg-case-135",
@@ -4587,7 +5257,12 @@
       "alg-q-002595",
       "alg-q-003415"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "BFS最短路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0135"
+    ]
   },
   {
     "id": "alg-case-136",
@@ -4621,7 +5296,12 @@
       "alg-q-002596",
       "alg-q-003416"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "DFS岛屿的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0136"
+    ]
   },
   {
     "id": "alg-case-137",
@@ -4655,7 +5335,12 @@
       "alg-q-002597",
       "alg-q-003417"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "拓扑排序的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0137"
+    ]
   },
   {
     "id": "alg-case-138",
@@ -4689,7 +5374,12 @@
       "alg-q-002598",
       "alg-q-003418"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "并查集朋友圈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0138"
+    ]
   },
   {
     "id": "alg-case-139",
@@ -4723,7 +5413,12 @@
       "alg-q-002599",
       "alg-q-003419"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "TopK的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0139"
+    ]
   },
   {
     "id": "alg-case-140",
@@ -4757,7 +5452,12 @@
       "alg-q-002600",
       "alg-q-003420"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "贪心区间的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0140"
+    ]
   },
   {
     "id": "alg-case-141",
@@ -4791,7 +5491,12 @@
       "alg-q-002601",
       "alg-q-003421"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回溯全排列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0141"
+    ]
   },
   {
     "id": "alg-case-142",
@@ -4825,7 +5530,12 @@
       "alg-q-002602",
       "alg-q-003422"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "爬楼梯DP的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0142"
+    ]
   },
   {
     "id": "alg-case-143",
@@ -4859,7 +5569,12 @@
       "alg-q-002603",
       "alg-q-003423"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "0/1背包的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0143"
+    ]
   },
   {
     "id": "alg-case-144",
@@ -4893,7 +5608,12 @@
       "alg-q-002604",
       "alg-q-003424"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长递增子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0144"
+    ]
   },
   {
     "id": "alg-case-145",
@@ -4927,7 +5647,12 @@
       "alg-q-002605",
       "alg-q-003425"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长公共子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0145"
+    ]
   },
   {
     "id": "alg-case-146",
@@ -4961,7 +5686,12 @@
       "alg-q-002606",
       "alg-q-003426"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "股票买卖的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0146"
+    ]
   },
   {
     "id": "alg-case-147",
@@ -4995,7 +5725,12 @@
       "alg-q-002607",
       "alg-q-003427"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "编辑距离的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0147"
+    ]
   },
   {
     "id": "alg-case-148",
@@ -5029,7 +5764,12 @@
       "alg-q-002608",
       "alg-q-003428"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回文子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0148"
+    ]
   },
   {
     "id": "alg-case-149",
@@ -5063,7 +5803,12 @@
       "alg-q-002609",
       "alg-q-003429"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "矩阵搜索的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0149"
+    ]
   },
   {
     "id": "alg-case-150",
@@ -5097,7 +5842,12 @@
       "alg-q-002610",
       "alg-q-003430"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "打家劫舍的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0150"
+    ]
   },
   {
     "id": "alg-case-151",
@@ -5131,7 +5881,12 @@
       "alg-q-002611",
       "alg-q-003431"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "跳跃游戏的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0151"
+    ]
   },
   {
     "id": "alg-case-152",
@@ -5165,7 +5920,12 @@
       "alg-q-002612",
       "alg-q-003432"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "快排实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0152"
+    ]
   },
   {
     "id": "alg-case-153",
@@ -5199,7 +5959,12 @@
       "alg-q-002613",
       "alg-q-003433"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "归并实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0153"
+    ]
   },
   {
     "id": "alg-case-154",
@@ -5233,7 +5998,12 @@
       "alg-q-002614",
       "alg-q-003434"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "堆实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0154"
+    ]
   },
   {
     "id": "alg-case-155",
@@ -5267,7 +6037,12 @@
       "alg-q-002615",
       "alg-q-003435"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "LRU缓存的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0155"
+    ]
   },
   {
     "id": "alg-case-156",
@@ -5301,7 +6076,12 @@
       "alg-q-002616",
       "alg-q-003436"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "设计类的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0156"
+    ]
   },
   {
     "id": "alg-case-157",
@@ -5335,7 +6115,12 @@
       "alg-q-002617",
       "alg-q-003437"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "模拟面试的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0157"
+    ]
   },
   {
     "id": "alg-case-158",
@@ -5369,7 +6154,12 @@
       "alg-q-002618",
       "alg-q-003438"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "随机算法的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0158"
+    ]
   },
   {
     "id": "alg-case-159",
@@ -5403,7 +6193,12 @@
       "alg-q-002619",
       "alg-q-003439"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "位运算的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0159"
+    ]
   },
   {
     "id": "alg-case-160",
@@ -5437,7 +6232,12 @@
       "alg-q-002620",
       "alg-q-003440"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "数组去重的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0160"
+    ]
   },
   {
     "id": "alg-case-161",
@@ -5471,7 +6271,12 @@
       "alg-q-002621",
       "alg-q-003441"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "两数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0161"
+    ]
   },
   {
     "id": "alg-case-162",
@@ -5505,7 +6310,12 @@
       "alg-q-002622",
       "alg-q-003442"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "三数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0162"
+    ]
   },
   {
     "id": "alg-case-163",
@@ -5539,7 +6349,12 @@
       "alg-q-002623",
       "alg-q-003443"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "区间合并的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0163"
+    ]
   },
   {
     "id": "alg-case-164",
@@ -5573,7 +6388,12 @@
       "alg-q-002624",
       "alg-q-003444"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长无重复子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0164"
+    ]
   },
   {
     "id": "alg-case-165",
@@ -5607,7 +6427,12 @@
       "alg-q-002625",
       "alg-q-003445"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "前缀和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0165"
+    ]
   },
   {
     "id": "alg-case-166",
@@ -5641,7 +6466,12 @@
       "alg-q-002626",
       "alg-q-003446"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "链表反转的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0166"
+    ]
   },
   {
     "id": "alg-case-167",
@@ -5675,7 +6505,12 @@
       "alg-q-002627",
       "alg-q-003447"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "合并链表的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0167"
+    ]
   },
   {
     "id": "alg-case-168",
@@ -5709,7 +6544,12 @@
       "alg-q-002628",
       "alg-q-003448"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "括号匹配的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0168"
+    ]
   },
   {
     "id": "alg-case-169",
@@ -5743,7 +6583,12 @@
       "alg-q-002629",
       "alg-q-003449"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "单调栈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0169"
+    ]
   },
   {
     "id": "alg-case-170",
@@ -5777,7 +6622,12 @@
       "alg-q-002630",
       "alg-q-003450"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "接雨水的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0170"
+    ]
   },
   {
     "id": "alg-case-171",
@@ -5811,7 +6661,12 @@
       "alg-q-002631",
       "alg-q-003451"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分查找的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0171"
+    ]
   },
   {
     "id": "alg-case-172",
@@ -5845,7 +6700,12 @@
       "alg-q-002632",
       "alg-q-003452"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分答案的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0172"
+    ]
   },
   {
     "id": "alg-case-173",
@@ -5879,7 +6739,12 @@
       "alg-q-002633",
       "alg-q-003453"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树遍历的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0173"
+    ]
   },
   {
     "id": "alg-case-174",
@@ -5913,7 +6778,12 @@
       "alg-q-002634",
       "alg-q-003454"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0174"
+    ]
   },
   {
     "id": "alg-case-175",
@@ -5947,7 +6817,12 @@
       "alg-q-002635",
       "alg-q-003455"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "BFS最短路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0175"
+    ]
   },
   {
     "id": "alg-case-176",
@@ -5981,7 +6856,12 @@
       "alg-q-002636",
       "alg-q-003456"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "DFS岛屿的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0176"
+    ]
   },
   {
     "id": "alg-case-177",
@@ -6015,7 +6895,12 @@
       "alg-q-002637",
       "alg-q-003457"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "拓扑排序的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0177"
+    ]
   },
   {
     "id": "alg-case-178",
@@ -6049,7 +6934,12 @@
       "alg-q-002638",
       "alg-q-003458"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "并查集朋友圈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0178"
+    ]
   },
   {
     "id": "alg-case-179",
@@ -6083,7 +6973,12 @@
       "alg-q-002639",
       "alg-q-003459"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "TopK的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0179"
+    ]
   },
   {
     "id": "alg-case-180",
@@ -6117,7 +7012,12 @@
       "alg-q-002640",
       "alg-q-003460"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "贪心区间的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0180"
+    ]
   },
   {
     "id": "alg-case-181",
@@ -6151,7 +7051,12 @@
       "alg-q-002641",
       "alg-q-003461"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回溯全排列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0181"
+    ]
   },
   {
     "id": "alg-case-182",
@@ -6185,7 +7090,12 @@
       "alg-q-002642",
       "alg-q-003462"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "爬楼梯DP的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0182"
+    ]
   },
   {
     "id": "alg-case-183",
@@ -6219,7 +7129,12 @@
       "alg-q-002643",
       "alg-q-003463"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "0/1背包的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0183"
+    ]
   },
   {
     "id": "alg-case-184",
@@ -6253,7 +7168,12 @@
       "alg-q-002644",
       "alg-q-003464"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长递增子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0184"
+    ]
   },
   {
     "id": "alg-case-185",
@@ -6287,7 +7207,12 @@
       "alg-q-002645",
       "alg-q-003465"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长公共子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0185"
+    ]
   },
   {
     "id": "alg-case-186",
@@ -6321,7 +7246,12 @@
       "alg-q-002646",
       "alg-q-003466"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "股票买卖的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0186"
+    ]
   },
   {
     "id": "alg-case-187",
@@ -6355,7 +7285,12 @@
       "alg-q-002647",
       "alg-q-003467"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "编辑距离的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0187"
+    ]
   },
   {
     "id": "alg-case-188",
@@ -6389,7 +7324,12 @@
       "alg-q-002648",
       "alg-q-003468"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回文子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0188"
+    ]
   },
   {
     "id": "alg-case-189",
@@ -6423,7 +7363,12 @@
       "alg-q-002649",
       "alg-q-003469"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "矩阵搜索的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0189"
+    ]
   },
   {
     "id": "alg-case-190",
@@ -6457,7 +7402,12 @@
       "alg-q-002650",
       "alg-q-003470"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "打家劫舍的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0190"
+    ]
   },
   {
     "id": "alg-case-191",
@@ -6491,7 +7441,12 @@
       "alg-q-002651",
       "alg-q-003471"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "跳跃游戏的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0191"
+    ]
   },
   {
     "id": "alg-case-192",
@@ -6525,7 +7480,12 @@
       "alg-q-002652",
       "alg-q-003472"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "快排实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0192"
+    ]
   },
   {
     "id": "alg-case-193",
@@ -6559,7 +7519,12 @@
       "alg-q-002653",
       "alg-q-003473"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "归并实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0193"
+    ]
   },
   {
     "id": "alg-case-194",
@@ -6593,7 +7558,12 @@
       "alg-q-002654",
       "alg-q-003474"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "堆实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0194"
+    ]
   },
   {
     "id": "alg-case-195",
@@ -6627,7 +7597,12 @@
       "alg-q-002655",
       "alg-q-003475"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "LRU缓存的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0195"
+    ]
   },
   {
     "id": "alg-case-196",
@@ -6661,7 +7636,12 @@
       "alg-q-002656",
       "alg-q-003476"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "设计类的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0196"
+    ]
   },
   {
     "id": "alg-case-197",
@@ -6695,7 +7675,12 @@
       "alg-q-002657",
       "alg-q-003477"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "模拟面试的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0197"
+    ]
   },
   {
     "id": "alg-case-198",
@@ -6729,7 +7714,12 @@
       "alg-q-002658",
       "alg-q-003478"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "随机算法的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0198"
+    ]
   },
   {
     "id": "alg-case-199",
@@ -6763,7 +7753,12 @@
       "alg-q-002659",
       "alg-q-003479"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "位运算的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0199"
+    ]
   },
   {
     "id": "alg-case-200",
@@ -6797,7 +7792,12 @@
       "alg-q-002660",
       "alg-q-003480"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "数组去重的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0200"
+    ]
   },
   {
     "id": "alg-case-201",
@@ -6831,7 +7831,12 @@
       "alg-q-002661",
       "alg-q-003481"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "两数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0201"
+    ]
   },
   {
     "id": "alg-case-202",
@@ -6865,7 +7870,12 @@
       "alg-q-002662",
       "alg-q-003482"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "三数之和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0202"
+    ]
   },
   {
     "id": "alg-case-203",
@@ -6899,7 +7909,12 @@
       "alg-q-002663",
       "alg-q-003483"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "区间合并的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0203"
+    ]
   },
   {
     "id": "alg-case-204",
@@ -6933,7 +7948,12 @@
       "alg-q-002664",
       "alg-q-003484"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长无重复子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0204"
+    ]
   },
   {
     "id": "alg-case-205",
@@ -6967,7 +7987,12 @@
       "alg-q-002665",
       "alg-q-003485"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "前缀和的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0205"
+    ]
   },
   {
     "id": "alg-case-206",
@@ -7001,7 +8026,12 @@
       "alg-q-002666",
       "alg-q-003486"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "链表反转的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0206"
+    ]
   },
   {
     "id": "alg-case-207",
@@ -7035,7 +8065,12 @@
       "alg-q-002667",
       "alg-q-003487"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "合并链表的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0207"
+    ]
   },
   {
     "id": "alg-case-208",
@@ -7069,7 +8104,12 @@
       "alg-q-002668",
       "alg-q-003488"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "括号匹配的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0208"
+    ]
   },
   {
     "id": "alg-case-209",
@@ -7103,7 +8143,12 @@
       "alg-q-002669",
       "alg-q-003489"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "单调栈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0209"
+    ]
   },
   {
     "id": "alg-case-210",
@@ -7137,7 +8182,12 @@
       "alg-q-002670",
       "alg-q-003490"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "接雨水的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0210"
+    ]
   },
   {
     "id": "alg-case-211",
@@ -7171,7 +8221,12 @@
       "alg-q-002671",
       "alg-q-003491"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分查找的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0211"
+    ]
   },
   {
     "id": "alg-case-212",
@@ -7205,7 +8260,12 @@
       "alg-q-002672",
       "alg-q-003492"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二分答案的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0212"
+    ]
   },
   {
     "id": "alg-case-213",
@@ -7239,7 +8299,12 @@
       "alg-q-002673",
       "alg-q-003493"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树遍历的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0213"
+    ]
   },
   {
     "id": "alg-case-214",
@@ -7273,7 +8338,12 @@
       "alg-q-002674",
       "alg-q-003494"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "二叉树路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0214"
+    ]
   },
   {
     "id": "alg-case-215",
@@ -7307,7 +8377,12 @@
       "alg-q-002675",
       "alg-q-003495"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "BFS最短路径的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0215"
+    ]
   },
   {
     "id": "alg-case-216",
@@ -7341,7 +8416,12 @@
       "alg-q-002676",
       "alg-q-003496"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "DFS岛屿的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0216"
+    ]
   },
   {
     "id": "alg-case-217",
@@ -7375,7 +8455,12 @@
       "alg-q-002677",
       "alg-q-003497"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "拓扑排序的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0217"
+    ]
   },
   {
     "id": "alg-case-218",
@@ -7409,7 +8494,12 @@
       "alg-q-002678",
       "alg-q-003498"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "并查集朋友圈的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0218"
+    ]
   },
   {
     "id": "alg-case-219",
@@ -7443,7 +8533,12 @@
       "alg-q-002679",
       "alg-q-003499"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "TopK的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0219"
+    ]
   },
   {
     "id": "alg-case-220",
@@ -7477,7 +8572,12 @@
       "alg-q-002680",
       "alg-q-003500"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "贪心区间的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0220"
+    ]
   },
   {
     "id": "alg-case-221",
@@ -7510,7 +8610,12 @@
       "alg-q-001861",
       "alg-q-002681"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回溯全排列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0221"
+    ]
   },
   {
     "id": "alg-case-222",
@@ -7543,7 +8648,12 @@
       "alg-q-001862",
       "alg-q-002682"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "爬楼梯DP的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0222"
+    ]
   },
   {
     "id": "alg-case-223",
@@ -7576,7 +8686,12 @@
       "alg-q-001863",
       "alg-q-002683"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "0/1背包的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0223"
+    ]
   },
   {
     "id": "alg-case-224",
@@ -7609,7 +8724,12 @@
       "alg-q-001864",
       "alg-q-002684"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长递增子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0224"
+    ]
   },
   {
     "id": "alg-case-225",
@@ -7642,7 +8762,12 @@
       "alg-q-001865",
       "alg-q-002685"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "最长公共子序列的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0225"
+    ]
   },
   {
     "id": "alg-case-226",
@@ -7675,7 +8800,12 @@
       "alg-q-001866",
       "alg-q-002686"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "股票买卖的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0226"
+    ]
   },
   {
     "id": "alg-case-227",
@@ -7708,7 +8838,12 @@
       "alg-q-001867",
       "alg-q-002687"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "编辑距离的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0227"
+    ]
   },
   {
     "id": "alg-case-228",
@@ -7741,7 +8876,12 @@
       "alg-q-001868",
       "alg-q-002688"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "回文子串的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0228"
+    ]
   },
   {
     "id": "alg-case-229",
@@ -7774,7 +8914,12 @@
       "alg-q-001869",
       "alg-q-002689"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "矩阵搜索的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0229"
+    ]
   },
   {
     "id": "alg-case-230",
@@ -7807,7 +8952,12 @@
       "alg-q-001870",
       "alg-q-002690"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "打家劫舍的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0230"
+    ]
   },
   {
     "id": "alg-case-231",
@@ -7840,7 +8990,12 @@
       "alg-q-001871",
       "alg-q-002691"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "跳跃游戏的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0231"
+    ]
   },
   {
     "id": "alg-case-232",
@@ -7873,7 +9028,12 @@
       "alg-q-001872",
       "alg-q-002692"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "快排实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0232"
+    ]
   },
   {
     "id": "alg-case-233",
@@ -7906,7 +9066,12 @@
       "alg-q-001873",
       "alg-q-002693"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "归并实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0233"
+    ]
   },
   {
     "id": "alg-case-234",
@@ -7939,7 +9104,12 @@
       "alg-q-001874",
       "alg-q-002694"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "堆实现的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0234"
+    ]
   },
   {
     "id": "alg-case-235",
@@ -7972,7 +9142,12 @@
       "alg-q-001875",
       "alg-q-002695"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "LRU缓存的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0235"
+    ]
   },
   {
     "id": "alg-case-236",
@@ -8005,7 +9180,12 @@
       "alg-q-001876",
       "alg-q-002696"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "设计类的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0236"
+    ]
   },
   {
     "id": "alg-case-237",
@@ -8038,7 +9218,12 @@
       "alg-q-001877",
       "alg-q-002697"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "模拟面试的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0237"
+    ]
   },
   {
     "id": "alg-case-238",
@@ -8071,7 +9256,12 @@
       "alg-q-001878",
       "alg-q-002698"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "随机算法的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0238"
+    ]
   },
   {
     "id": "alg-case-239",
@@ -8104,7 +9294,12 @@
       "alg-q-001879",
       "alg-q-002699"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "位运算的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0239"
+    ]
   },
   {
     "id": "alg-case-240",
@@ -8137,7 +9332,12 @@
       "alg-q-001880",
       "alg-q-002700"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "数组去重的算法案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "alg-kp-0240"
+    ]
   },
   {
     "id": "al-case-241",
@@ -8145,33 +9345,19 @@
     "description": "通过二叉树掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "二叉树"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过二叉树掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过二叉树掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "二叉树案例241"
   },
   {
     "id": "al-case-242",
@@ -8179,33 +9365,19 @@
     "description": "通过图掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "图"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过图掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过图掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "图案例242"
   },
   {
     "id": "al-case-243",
@@ -8213,33 +9385,19 @@
     "description": "通过搜索掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "搜索"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过搜索掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过搜索掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "搜索案例243"
   },
   {
     "id": "al-case-244",
@@ -8247,33 +9405,19 @@
     "description": "通过栈掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "栈"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过栈掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过栈掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "栈案例244"
   },
   {
     "id": "al-case-245",
@@ -8281,33 +9425,19 @@
     "description": "通过二叉树掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "二叉树"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过二叉树掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过二叉树掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "二叉树案例245"
   },
   {
     "id": "al-case-246",
@@ -8315,33 +9445,19 @@
     "description": "通过链表掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "链表"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过链表掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过链表掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "链表案例246"
   },
   {
     "id": "al-case-247",
@@ -8349,33 +9465,19 @@
     "description": "通过动态规划掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "动态规划"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过动态规划掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过动态规划掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "动态规划案例247"
   },
   {
     "id": "al-case-248",
@@ -8383,33 +9485,19 @@
     "description": "通过图掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "图"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过图掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过图掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "图案例248"
   },
   {
     "id": "al-case-249",
@@ -8417,33 +9505,19 @@
     "description": "通过链表掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "链表"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过链表掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过链表掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "链表案例249"
   },
   {
     "id": "al-case-250",
@@ -8451,33 +9525,19 @@
     "description": "通过回溯掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "回溯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过回溯掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过回溯掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "回溯案例250"
   },
   {
     "id": "al-case-251",
@@ -8485,33 +9545,19 @@
     "description": "通过搜索掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "搜索"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过搜索掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过搜索掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "搜索案例251"
   },
   {
     "id": "al-case-252",
@@ -8519,33 +9565,19 @@
     "description": "通过回溯掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "回溯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过回溯掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过回溯掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "回溯案例252"
   },
   {
     "id": "al-case-253",
@@ -8553,33 +9585,19 @@
     "description": "通过回溯掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "回溯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过回溯掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过回溯掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "回溯案例253"
   },
   {
     "id": "al-case-254",
@@ -8587,33 +9605,19 @@
     "description": "通过排序掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "排序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过排序掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过排序掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "排序案例254"
   },
   {
     "id": "al-case-255",
@@ -8621,33 +9625,19 @@
     "description": "通过链表掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "链表"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过链表掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过链表掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "链表案例255"
   },
   {
     "id": "al-case-256",
@@ -8655,33 +9645,19 @@
     "description": "通过哈希掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "哈希"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过哈希掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过哈希掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "哈希案例256"
   },
   {
     "id": "al-case-257",
@@ -8689,33 +9665,19 @@
     "description": "通过链表掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "链表"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过链表掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过链表掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "链表案例257"
   },
   {
     "id": "al-case-258",
@@ -8723,33 +9685,19 @@
     "description": "通过数组掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "数组"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过数组掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过数组掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "数组案例258"
   },
   {
     "id": "al-case-259",
@@ -8757,33 +9705,19 @@
     "description": "通过回溯掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "回溯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过回溯掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过回溯掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "回溯案例259"
   },
   {
     "id": "al-case-260",
@@ -8791,32 +9725,18 @@
     "description": "通过二叉树掌握算法",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "思路",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "编码"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "二叉树"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过二叉树掌握算法",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过二叉树掌握算法",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **思路**: 设计\n3. **实现**: 编码\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "二叉树案例260"
   }
 ]
