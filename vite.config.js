@@ -1,11 +1,32 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-// 项目站点 module-algorithm-interview，部署在子路径 /module-algorithm-interview/，base 必须设置
+// 项目站点 module-template，部署在子路径 /module-template/，base 必须设置
 export default defineConfig({
-    base: "/module-algorithm-interview/",
+    base: "/module-template/",
     plugins: [react],
+    esbuild: {
+        drop: ["console", "debugger"],
+    },
     build: {
         outDir: "dist",
+        target: "es2020",
+        minify: "esbuild",
+        cssCodeSplit: true,
+        reportCompressedSize: false,
         sourcemap: false,
+        rollupOptions: {
+            output: {
+                manualChunks: function (id) {
+                    if (id.includes("node_modules")) {
+                        if (id.includes("react") || id.includes("react-dom") || id.includes("react-router-dom")) {
+                            return "vendor";
+                        }
+                        if (id.includes("fuse")) {
+                            return "fuse";
+                        }
+                    }
+                },
+            },
+        },
     },
 });
