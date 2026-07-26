@@ -1,217 +1,427 @@
 [
   {
     "id": "mod-algorithm-interview-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [数据结构与算法刷题] 的过程里，关于“数据结构与算法刷题 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "在长度为 n 的数组中，通过下标访问任意一个元素（如 arr[5]）的时间复杂度是多少？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "O(1)" },
+      { "key": "B", "text": "O(log n)" },
+      { "key": "C", "text": "O(n)" },
+      { "key": "D", "text": "O(n log n)" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据结构与算法刷题 环境依赖搭建与运行机制”的正确答案为 A。解析：在 数据结构与算法刷题 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据结构与算法刷题",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "数组在内存中是连续存储的，元素地址 = 基地址 + 下标 × 元素大小，可直接计算得到，因此随机访问是 O(1)。O(log n) 是二分查找的复杂度，O(n) 是链表按位置访问的复杂度，不要混淆。",
+    "tags": ["数组", "时间复杂度"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-algorithm-interview-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [数据结构与算法刷题] 的过程里，关于“数据结构与算法刷题 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "判断字符串 \"([{}])\" 中的括号是否合法匹配，最适合使用哪种数据结构？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "队列" },
+      { "key": "B", "text": "栈" },
+      { "key": "C", "text": "哈希表" },
+      { "key": "D", "text": "堆" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据结构与算法刷题 配置文件覆盖与属性解析”的正确答案为 A。解析：在 数据结构与算法刷题 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据结构与算法刷题",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "括号匹配要求最近打开的括号最先闭合，正好符合栈的后进先出（LIFO）特性：遇到左括号入栈，遇到右括号弹出栈顶检查是否配对。队列是先进先出，无法表达嵌套关系；哈希表可辅助存储括号映射但不能维护顺序；堆用于维护极值。",
+    "tags": ["栈", "字符串"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-algorithm-interview-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [数据结构与算法刷题] 的过程里，关于“数据结构与算法刷题 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "对一个已升序排序、长度为 n 的数组执行二分查找，最坏情况下的时间复杂度是多少？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "O(1)" },
+      { "key": "B", "text": "O(n)" },
+      { "key": "C", "text": "O(log n)" },
+      { "key": "D", "text": "O(n²)" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据结构与算法刷题 API 接口规范与数据通信”的正确答案为 A。解析：在 数据结构与算法刷题 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据结构与算法刷题",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["C"],
+    "explanation": "二分查找每次比较后将搜索区间缩小一半，区间从 n 缩到 1 最多需要 log₂n 次，因此最坏时间复杂度为 O(log n)。注意二分查找的前提是数据有序且支持随机访问（数组），链表上无法高效二分。",
+    "tags": ["二分查找", "时间复杂度"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-algorithm-interview-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [数据结构与算法刷题] 的过程里，关于“数据结构与算法刷题 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "已经持有单链表中某个节点 p 的引用（p 不是尾节点），在 p 之后插入一个新节点的时间复杂度是多少？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "O(1)" },
+      { "key": "B", "text": "O(log n)" },
+      { "key": "C", "text": "O(n)" },
+      { "key": "D", "text": "O(n²)" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据结构与算法刷题 核心控制器与数据校验机制”的正确答案为 A。解析：在 数据结构与算法刷题 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据结构与算法刷题",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "链表插入只需修改指针：new.next = p.next; p.next = new，与链表长度无关，是 O(1)。注意区分：如果只知道\"第 k 个位置\"而没有节点引用，还需要 O(n) 时间先遍历定位。数组在中间插入则需要移动后续元素，是 O(n)。",
+    "tags": ["链表"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-algorithm-interview-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [数据结构与算法刷题] 的过程里，关于“数据结构与算法刷题 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "以固定选取第一个元素作为基准（pivot）的快速排序，在下列哪种输入下会退化到最坏时间复杂度 O(n²)？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "完全随机排列的数组" },
+      { "key": "B", "text": "已经升序排好的数组" },
+      { "key": "C", "text": "所有元素都不相同的数组" },
+      { "key": "D", "text": "长度为奇数的数组" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据结构与算法刷题 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 数据结构与算法刷题 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据结构与算法刷题",
-      "基础考点"
-    ],
+    "answer": ["B"],
+    "explanation": "对已排序数组固定取首元素作 pivot，每次划分都会得到\"空 + n-1\"的极端不平衡切分，递归深度达到 n，总比较次数为 n(n-1)/2，即 O(n²)。随机数组平均可得到较平衡的划分，期望复杂度 O(n log n)。工程上常用随机选 pivot 或三数取中来规避这一退化。",
+    "tags": ["快速排序", "时间复杂度"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-algorithm-interview-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-algorithm-interview-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [数据结构与算法刷题] 的过程里，关于“数据结构与算法刷题 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "哈希表发生冲突时，把散列到同一个桶的元素用链表串起来存储，这种冲突解决方法叫什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "开放定址法（线性探测）" },
+      { "key": "B", "text": "链地址法（拉链法）" },
+      { "key": "C", "text": "再哈希法" },
+      { "key": "D", "text": "布隆过滤器" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据结构与算法刷题 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 数据结构与算法刷题 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据结构与算法刷题",
-      "基础考点"
-    ],
+    "answer": ["B"],
+    "explanation": "链地址法（separate chaining）让每个桶维护一条链表（Java 8 的 HashMap 在链表过长时还会转为红黑树）。开放定址法是冲突后在表内继续探测空槽；再哈希法是换一个哈希函数重新计算；布隆过滤器是一种概率型存在性判断结构，不是冲突解决方案。",
+    "tags": ["哈希表"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-algorithm-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "对一棵二叉搜索树（BST）执行哪种遍历，可以得到按键值升序排列的序列？",
+    "options": [
+      { "key": "A", "text": "前序遍历" },
+      { "key": "B", "text": "中序遍历" },
+      { "key": "C", "text": "后序遍历" },
+      { "key": "D", "text": "层序遍历" }
+    ],
+    "answer": ["B"],
+    "explanation": "BST 满足\"左子树 < 根 < 右子树\"，中序遍历按\"左-根-右\"访问，恰好输出升序序列。这也是面试中\"验证一棵树是否为 BST\"的常用思路：中序遍历结果必须严格递增。前序常用于序列化/复制树，后序常用于自底向上计算（如求高度），层序即 BFS。",
+    "tags": ["二叉搜索树", "树遍历"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "从 10 亿个数中找出最大的 100 个数（Top-K 问题），内存有限时最经典的做法是维护一个什么结构？",
+    "options": [
+      { "key": "A", "text": "容量为 100 的小顶堆" },
+      { "key": "B", "text": "容量为 100 的大顶堆" },
+      { "key": "C", "text": "对全部数据做快速排序" },
+      { "key": "D", "text": "容量为 10 亿的哈希表" }
+    ],
+    "answer": ["A"],
+    "explanation": "维护容量为 K 的小顶堆：堆顶是当前 100 个候选中最小的，新元素若大于堆顶则替换堆顶并下沉调整，扫描一遍即可，复杂度 O(n log K)，内存只需 O(K)。求\"最大的 K 个\"用小顶堆、求\"最小的 K 个\"用大顶堆，方向容易记反，是高频面试坑。全量排序需要 O(n log n) 且要把数据全部装入内存，不可行。",
+    "tags": ["堆", "Top-K"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "在一个边权都相等（无权）的图中，求从起点到终点经过边数最少的路径，应该使用哪种算法？",
+    "options": [
+      { "key": "A", "text": "深度优先搜索（DFS）" },
+      { "key": "B", "text": "广度优先搜索（BFS）" },
+      { "key": "C", "text": "快速排序" },
+      { "key": "D", "text": "二分查找" }
+    ],
+    "answer": ["B"],
+    "explanation": "BFS 按层扩展，第一次到达某节点时经过的层数就是最短距离，因此天然适合无权图最短路（如迷宫最短步数、单词接龙）。DFS 会一条路走到黑，先找到的路径不保证最短。带权图的最短路则需要 Dijkstra（非负权）或 Bellman-Ford（含负权）。",
+    "tags": ["图", "BFS", "最短路径"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "爬楼梯问题：每次可以爬 1 阶或 2 阶，设爬到第 n 阶的方法数为 f(n)，则 f(n) = f(n-1) + f(n-2)，且 f(1)=1、f(2)=2。爬到第 10 阶共有多少种方法？",
+    "options": [
+      { "key": "A", "text": "55" },
+      { "key": "B", "text": "89" },
+      { "key": "C", "text": "100" },
+      { "key": "D", "text": "144" }
+    ],
+    "answer": ["B"],
+    "explanation": "按递推依次计算：1, 2, 3, 5, 8, 13, 21, 34, 55, 89，f(10)=89。该数列本质是斐波那契数列的平移。若直接递归求解会重复计算子问题，复杂度指数级；用自底向上递推（DP）只需 O(n) 时间、O(1) 空间（滚动两个变量）。",
+    "tags": ["动态规划", "递推"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "在一个已升序排序的数组中判断是否存在两个数之和恰好等于目标值 target，使用左右双指针法的时间复杂度是多少？",
+    "options": [
+      { "key": "A", "text": "O(n²)" },
+      { "key": "B", "text": "O(n log n)" },
+      { "key": "C", "text": "O(n)" },
+      { "key": "D", "text": "O(log n)" }
+    ],
+    "answer": ["C"],
+    "explanation": "左指针指向最小值、右指针指向最大值：和偏小就左指针右移，和偏大就右指针左移，两个指针总移动次数不超过 n，因此是 O(n)。这利用了数组有序这一性质。若数组无序，可以用哈希表记录已见元素做到 O(n) 时间 O(n) 空间，或先排序再双指针（O(n log n)）。",
+    "tags": ["双指针", "两数之和"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "关于 Dijkstra 单源最短路算法，下列说法正确的是哪一项？",
+    "options": [
+      { "key": "A", "text": "它可以正确处理含负权边的图" },
+      { "key": "B", "text": "它基于贪心策略，要求所有边权非负" },
+      { "key": "C", "text": "它只能用于无向图" },
+      { "key": "D", "text": "它的结果与 BFS 在任何图上都相同" }
+    ],
+    "answer": ["B"],
+    "explanation": "Dijkstra 每次贪心地确定当前距离最小的未定点，其正确性依赖\"已确定的最短距离不会再被更新\"，而负权边可能让绕远路反而更短，破坏该前提，所以要求边权非负；含负权图应改用 Bellman-Ford 或 SPFA。Dijkstra 对有向图、无向图都适用。只有当所有边权相等时它才与 BFS 等效。",
+    "tags": ["图", "最短路径", "Dijkstra"],
+    "difficulty": "hard",
+    "chapter": "mod-algorithm-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-algorithm-interview-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "下列哪种排序算法既是稳定排序，最坏时间复杂度又是 O(n log n)？",
+    "options": [
+      { "key": "A", "text": "快速排序" },
+      { "key": "B", "text": "堆排序" },
+      { "key": "C", "text": "归并排序" },
+      { "key": "D", "text": "选择排序" }
+    ],
+    "answer": ["C"],
+    "explanation": "归并排序无论输入如何都严格 O(n log n)，且合并时相等元素保持原有相对次序，是稳定排序（代价是需要 O(n) 辅助空间）。快速排序最坏 O(n²) 且不稳定；堆排序最坏 O(n log n) 但堆调整会打乱相等元素的相对次序，不稳定；选择排序 O(n²) 且不稳定。",
+    "tags": ["排序", "稳定性"],
+    "difficulty": "hard",
+    "chapter": "mod-algorithm-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-algorithm-interview-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "求字符串中\"无重复字符的最长子串\"长度，用滑动窗口 + 哈希集合的经典解法，时间复杂度是多少？",
+    "options": [
+      { "key": "A", "text": "O(n)" },
+      { "key": "B", "text": "O(n²)" },
+      { "key": "C", "text": "O(n³)" },
+      { "key": "D", "text": "O(2ⁿ)" }
+    ],
+    "answer": ["A"],
+    "explanation": "维护窗口 [left, right]：right 向右扩展，遇到重复字符时 left 向右收缩直到窗口内无重复。left 和 right 各自最多移动 n 次，每个字符最多进出窗口一次，总操作次数为 O(n)（哈希集合增删查均摊 O(1)）。暴力枚举所有子串并检查是 O(n³)，枚举起点 + 集合检查是 O(n²)，滑动窗口是最优解法。",
+    "tags": ["滑动窗口", "字符串"],
+    "difficulty": "hard",
+    "chapter": "mod-algorithm-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-algorithm-interview-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列排序算法中，属于稳定排序的有哪些？（稳定：相等元素排序后保持原有相对次序）",
+    "options": [
+      { "key": "A", "text": "冒泡排序" },
+      { "key": "B", "text": "直接插入排序" },
+      { "key": "C", "text": "归并排序" },
+      { "key": "D", "text": "堆排序" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "冒泡排序只在严格大于时交换相邻元素，稳定；插入排序把元素插到相等元素之后，稳定；归并排序合并时优先取左半部分的相等元素，稳定。堆排序在建堆和堆顶交换过程中会跨越式移动元素，破坏相等元素的相对次序，不稳定；同样不稳定的还有快速排序和选择排序。",
+    "tags": ["排序", "稳定性"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于哈希表，下列说法正确的有哪些？",
+    "options": [
+      { "key": "A", "text": "查找操作的平均时间复杂度为 O(1)" },
+      { "key": "B", "text": "最坏情况下（大量冲突）查找可能退化为 O(n)" },
+      { "key": "C", "text": "装载因子过高时应扩容并重新散列（rehash）" },
+      { "key": "D", "text": "无论数据分布如何，查找都严格保证 O(1)" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "哈希表在哈希函数分布均匀、装载因子合理时平均 O(1)（A 对）；若大量键散列到同一桶，链地址法会退化为遍历链表，最坏 O(n)（B 对），这也是哈希碰撞攻击的原理；装载因子（元素数/桶数）超过阈值（如 0.75）时扩容 rehash 以维持性能（C 对）。D 中\"严格保证\"错误，O(1) 只是平均/均摊意义上的。",
+    "tags": ["哈希表", "时间复杂度"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "一个问题适合用动态规划求解，通常应具备下列哪些性质？",
+    "options": [
+      { "key": "A", "text": "最优子结构：原问题的最优解可由子问题的最优解组合得到" },
+      { "key": "B", "text": "重叠子问题：递归求解时相同子问题被重复计算" },
+      { "key": "C", "text": "无后效性：当前状态确定后，后续决策不受到达该状态的路径影响" },
+      { "key": "D", "text": "子问题彼此完全独立、互不重叠" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "动态规划三要素：最优子结构（A）、重叠子问题（B）、无后效性（C）。正因为子问题重叠，用备忘录或递推表缓存结果才能把指数复杂度降为多项式。D 描述的是分治法的典型场景（如归并排序，子问题独立不重叠）——若子问题不重叠，DP 相比普通分治并无优势。",
+    "tags": ["动态规划"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "关于图的遍历，下列说法正确的有哪些？",
+    "options": [
+      { "key": "A", "text": "DFS 可以用递归实现，也可以用显式栈迭代实现" },
+      { "key": "B", "text": "BFS 通常借助队列实现" },
+      { "key": "C", "text": "在无权图中，BFS 首次到达某节点时的层数就是起点到它的最短距离" },
+      { "key": "D", "text": "对任意图，DFS 的时间复杂度总是严格低于 BFS" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "DFS 的递归本质就是隐式利用函数调用栈，改成显式栈即可迭代实现，还能避免深图爆栈（A 对）；BFS 按层扩展需要先进先出的队列（B 对）；BFS 逐层推进保证首次到达即最短，这是无权最短路的基础（C 对）。DFS 和 BFS 遍历整个图的时间复杂度都是 O(V+E)，没有谁严格更快（D 错），选择取决于问题需要（最短路用 BFS、连通性/拓扑相关常用 DFS）。",
+    "tags": ["图", "DFS", "BFS"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-algorithm-interview-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "二分查找要求被查找的序列必须是有序的。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。二分查找的每一步都依据\"中间元素与目标的大小关系\"来决定舍弃左半边还是右半边，这个推理只有在序列有序时才成立。对无序数组用二分会得到错误结果，此时只能线性扫描 O(n)，或先排序再查找。",
+    "tags": ["二分查找"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-algorithm-interview-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "队列是一种先进先出（FIFO）的数据结构。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。队列只允许在队尾入队、在队头出队，最先进入的元素最先被取出，即 FIFO。与之相对，栈是后进先出（LIFO）。BFS、消息队列、任务调度等场景都建立在队列的 FIFO 语义之上。",
+    "tags": ["队列"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-algorithm-interview-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "快速排序是一种稳定的排序算法。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。快速排序在划分（partition）过程中会把元素与远处的位置交换，相等元素的相对次序可能被打乱，因此不稳定。例如对 [3a, 3b, 1] 以 3a 为基准划分后，3b 可能被换到 3a 之前。需要稳定性时应选归并排序、插入排序或冒泡排序。",
+    "tags": ["快速排序", "稳定性"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-algorithm-interview-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "一个算法执行 2n + 10 次基本操作，它的时间复杂度与执行 n 次基本操作的算法属于同一量级，都是 O(n)。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。大 O 表示法刻画的是增长趋势，忽略常数系数和低阶项：2n + 10 与 n 都随规模线性增长，同为 O(n)。这也是为什么复杂度分析中 O(2n)、O(n/2)、O(n+100) 都直接写成 O(n)。但注意工程实践中常数因子仍会影响真实运行时间。",
+    "tags": ["时间复杂度", "大O表示法"],
+    "difficulty": "medium",
+    "chapter": "mod-algorithm-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-algorithm-interview-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "对一棵二叉搜索树进行中序遍历，得到的键值序列按什么顺序排列？（填：升序 / 降序 / 无序）",
+    "options": [],
+    "answer": ["升序|递增|从小到大"],
+    "explanation": "二叉搜索树满足左子树所有键 < 根 < 右子树所有键，中序遍历按\"左-根-右\"访问，因此输出严格升序（递增）序列。这一性质常用于验证 BST 合法性、求第 k 小元素等面试题。",
+    "tags": ["二叉搜索树", "树遍历"],
+    "difficulty": "easy",
+    "chapter": "mod-algorithm-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-algorithm-interview-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "硬币找零问题：给定若干面额的硬币（数量不限），求凑出金额 n 所需的最少硬币数。由于贪心（每次选最大面额）在某些面额组合下会得到错误答案（如面额 {1,3,4} 凑 6），求解该问题的标准算法思想是什么？",
+    "options": [],
+    "answer": ["动态规划|DP|dp"],
+    "explanation": "标准解法是动态规划：设 dp[i] 为凑出金额 i 的最少硬币数，转移方程 dp[i] = min(dp[i - coin] + 1)，对所有面额 coin 取最小，时间复杂度 O(n × 面额数)。贪心只在\"标准币制\"（如 1/5/10/50）下恰好正确，对 {1,3,4} 凑 6 会给出 4+1+1 共 3 枚，而最优解是 3+3 共 2 枚，因此通用解必须用 DP。",
+    "tags": ["动态规划", "贪心"],
+    "difficulty": "hard",
+    "chapter": "mod-algorithm-interview-c-3",
     "knowledge_points": [],
     "estimated_time": 5
   }

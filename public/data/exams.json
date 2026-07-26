@@ -1,31 +1,65 @@
 [
   {
     "id": "mod-algorithm-interview-exam-1",
-    "slug": "final-exam",
-    "title": "数据结构与算法刷题 核心期末综合自测",
-    "summary": "全面检验您对 数据结构与算法刷题 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "数据结构与算法 基础入门测评",
+    "summary": "覆盖数组、链表、栈、队列与二分查找等基础数据结构和复杂度概念，适合刷题入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-algorithm-interview-q-1",
       "mod-algorithm-interview-q-2",
       "mod-algorithm-interview-q-3",
       "mod-algorithm-interview-q-4",
-      "mod-algorithm-interview-q-5",
-      "mod-algorithm-interview-q-6"
+      "mod-algorithm-interview-q-6",
+      "mod-algorithm-interview-q-15",
+      "mod-algorithm-interview-q-19",
+      "mod-algorithm-interview-q-20",
+      "mod-algorithm-interview-q-22",
+      "mod-algorithm-interview-q-23"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-algorithm-interview-exam-2",
-    "slug": "basic-exam",
-    "title": "数据结构与算法刷题 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "数据结构与算法 进阶强化训练",
+    "summary": "聚焦排序、哈希、堆、双指针、滑动窗口与动态规划等高频面试考点的强化练习。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-algorithm-interview-q-1",
-      "mod-algorithm-interview-q-2",
-      "mod-algorithm-interview-q-3"
+      "mod-algorithm-interview-q-5",
+      "mod-algorithm-interview-q-7",
+      "mod-algorithm-interview-q-8",
+      "mod-algorithm-interview-q-10",
+      "mod-algorithm-interview-q-11",
+      "mod-algorithm-interview-q-13",
+      "mod-algorithm-interview-q-14",
+      "mod-algorithm-interview-q-16",
+      "mod-algorithm-interview-q-17",
+      "mod-algorithm-interview-q-21"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-algorithm-interview-exam-3",
+    "slug": "mock-exam",
+    "title": "数据结构与算法 综合模拟面试卷",
+    "summary": "综合图算法、最短路、排序稳定性、滑动窗口与 DP 建模的全真模拟卷，检验整体刷题水平。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-algorithm-interview-q-5",
+      "mod-algorithm-interview-q-8",
+      "mod-algorithm-interview-q-9",
+      "mod-algorithm-interview-q-10",
+      "mod-algorithm-interview-q-12",
+      "mod-algorithm-interview-q-13",
+      "mod-algorithm-interview-q-14",
+      "mod-algorithm-interview-q-16",
+      "mod-algorithm-interview-q-17",
+      "mod-algorithm-interview-q-18",
+      "mod-algorithm-interview-q-21",
+      "mod-algorithm-interview-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
